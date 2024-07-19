@@ -153,3 +153,6 @@ python inference_challenge.py \
        --eval_set test \
        --fd_exp ABOLSUTE_APTH_TO_FOLDER_EXP
 ```
+
+## Thanks
+This code is heavily based on [github.com/sucv/ABAW3](https://github.com/sucv/ABAW3).
