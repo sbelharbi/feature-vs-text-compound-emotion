@@ -1,0 +1,1108 @@
+val/dia0_utt0,6,Oh my God, he's lost it. He's totally lost it.
+val/dia0_utt1,2,What?
+val/dia1_utt0,0,Or! Or, we could go to the bank, close our accounts and cut them off at the source.
+val/dia1_utt1,1,You're a genius!
+val/dia1_utt2,6,Aww, man, now we won't be bank buddies!
+val/dia1_utt3,0,Now, there's two reasons.
+val/dia1_utt4,0,Hey.
+val/dia1_utt5,1,Hey!
+val/dia1_utt6,0,Ohh, you guys, remember that cute client I told you about? I bit him.
+val/dia1_utt7,2,Where?!
+val/dia1_utt8,0,On the touchy.
+val/dia1_utt9,0,And
+val/dia1_utt10,2,No, I know!
+val/dia1_utt11,4,I-I'm sorry, but the moment I touch him, I just wanna throw out my old oath and take a new, dirty one.
+val/dia1_utt12,0,Well, next time your massaging him, you should try and distract yourself.
+val/dia1_utt13,1,Yeah! Yeah! Yeah! Like-like when I'm doing something exciting and I don't wanna get
+val/dia1_utt14,0,Thank you, Joey.
+val/dia1_utt15,0,No-no, thank you.
+val/dia2_utt0,0,Hey Estelle, listen
+val/dia2_utt1,2,Well! Well! Well! Joey Tribbiani! So you came back huh? They
+val/dia2_utt2,2,What are you talkin' about? I never left you! You've always been my agent!
+val/dia2_utt3,2,Really?!
+val/dia2_utt4,1,Yeah!
+val/dia2_utt5,0,Oh well, no harm, no foul.
+val/dia3_utt0,0,Okay, you guys free tonight?
+val/dia3_utt1,1,Yeah!!
+val/dia3_utt2,2,Tonight? You-you didn't say it was going to be at nighttime.
+val/dia4_utt0,0,Yes? Yes?! How can I help you?
+val/dia4_utt1,0,Yeah, we were we were just looking around.
+val/dia4_utt2,2,Oh-oh, you're-you're fellow scholars.
+val/dia4_utt3,0,What exactly were you looking for, hmm?
+val/dia4_utt4,0,Perhaps,  perhaps Dr. Chester Stock's musings on the Smiledon Californicus?
+val/dia4_utt5,0,Uhh .
+val/dia4_utt6,4,Ah  Ah Get out of here!  Uh, meeting someone? Or-or are you just here to brush up on Marion's views on evolution?
+val/dia4_utt7,0,Uh, actually I find Marion's views far too progressionist.
+val/dia4_utt8,0,I find Marion's views far too progressionist.
+val/dia4_utt9,2,I'm sorry, who are you?
+val/dia4_utt10,0,I'm a professor here uh, Ross Geller.
+val/dia4_utt11,2,Ross Geller, why do I know that name? It's uh Wait!  Did you write this?
+val/dia4_utt12,2,Yes! You're the person who checked out my book?!
+val/dia4_utt13,2,Y'know, you look nothing like I would've thought. You're you're so young.
+val/dia4_utt14,0,Well I uh, I skipped forth grade.
+val/dia5_utt0,4,You had no right to tell me you ever had feelings for me.
+val/dia5_utt1,2,What?
+val/dia5_utt2,4,I was doing great with Julie before I found out about you.
+val/dia5_utt3,4,Hey, I was doin' great before I found out about you. You think it's easy for me to see you with Julie?
+val/dia5_utt4,4,The point is I...
+val/dia5_utt5,4,I don't need this right now, OK.
+val/dia5_utt6,4,It, it's too late, I'm with somebody else, I'm happy.
+val/dia5_utt7,4,This ship has sailed.
+val/dia5_utt8,4,Alright, fine, you go ahead and you do that, alright Ross.
+val/dia5_utt9,4,Fine.
+val/dia5_utt10,4,Cause I don't need your stupid ship.
+val/dia5_utt11,4,Good.
+val/dia5_utt12,4,Good.
+val/dia6_utt0,1,Oh, it's so romantic to send people off on their honeymoon.
+val/dia6_utt1,0,Y'know, Monica and Chandler are married. Ross and Rachel are having a baby. Maybe you and I should do something.
+val/dia6_utt2,0,All in good time my love.
+val/dia6_utt3,0,All in good time.
+val/dia6_utt4,2,Oh shoot!
+val/dia6_utt5,6,I left my guitar in their apartment.
+val/dia6_utt6,0,Well you can let me in later.
+val/dia6_utt7,0,I don't have a key, they took mine to give to you.
+val/dia6_utt8,2,What?! They took mine to give to you!
+val/dia6_utt9,2,Why would they take away our keys?
+val/dia7_utt0,1,Wow! It looks like we got a lot of good stuff.
+val/dia7_utt1,1,Oh we did, but my mom got us the greatest gift of all.
+val/dia7_utt2,0,A
+val/dia7_utt3,0,No. She's going to live with us for eight weeks.
+val/dia7_utt4,2,Uh, what?
+val/dia7_utt5,1,Yes! She's gonna help us take care of the baby! Woo-hoo.
+val/dia7_utt6,2,What You're not serious.
+val/dia7_utt7,4,I mean she's a very nice woman, but there is no way we can take eight weeks of her.
+val/dia7_utt8,5,She'll drive us totally crazy.
+val/dia7_utt9,1,Hi Ross!
+val/dia7_utt10,1,Hi roomie!
+val/dia8_utt0,0,Hey! What did you decide to do about the movie?
+val/dia8_utt1,0,I don't know!
+val/dia8_utt2,0,It's not like it's porn!
+val/dia8_utt3,0,This is a serious, legitimate movie.
+val/dia8_utt4,0,And the nudity is really important to the story.
+val/dia8_utt5,0,That's what you say about porn.
+val/dia8_utt6,0,You're right. Maybe I shouldn't even go on the call back.
+val/dia8_utt7,1,No! No you should! A lot of major actors do nude scenes! I mean, the chance to star in a movie? Come on!
+val/dia8_utt8,0,Well that's true.
+val/dia8_utt9,0,And I am only naked in one scene.
+val/dia8_utt10,0,Plus it sounds really great.
+val/dia8_utt11,0,My character's catholic and he falls in love with this Jewish girl.
+val/dia8_utt12,0,Who run away together and they get caught in this big rainstorm.
+val/dia8_utt13,0,So we go into this barn and undress each other and hold each other.
+val/dia8_utt14,1,It's really sweet and-and tender.
+val/dia9_utt0,0,Hey, what's up?
+val/dia9_utt1,6,Nothing, Monica and I had a stupid fight.
+val/dia9_utt2,0,But you're still moving in together, right? Because my ad came out today.
+val/dia9_utt3,1,"Wanted. Female roommate, non-smoker, non-ugly." Nice!
+val/dia9_utt4,0,Yeah?
+val/dia9_utt5,0,I just figured y'know, after living with you it'd be an interesting change of pace to have a female roommate, y'know?
+val/dia9_utt6,0,Someone I can learn from, someone-someone who's different than me.
+val/dia9_utt7,0,And what's more different than me. A guy who's
+val/dia10_utt0,0,So where are we going next?
+val/dia10_utt1,0,This witness won't return my calls so we're gonna see if we can surprise him coming home.
+val/dia10_utt2,3,Sur-surprise him? We're not, we're not gonna make anybody mad are we?
+val/dia10_utt3,1,Come on man!  Listen so uh, are you gonna squeeze the perps shoes a little bit before he lawyers up?
+val/dia10_utt4,4,It's a witness not a perp. And no one talks like that!
+val/dia10_utt5,4,Yeah, no one talks like that!
+val/dia10_utt6,4,Oh what? Like your Mr. Cop!
+val/dia10_utt7,4,Hey, I'm more cop than you two!
+val/dia10_utt8,0,How do you figure that?
+val/dia10_utt9,0,Hello! I'm in the front seat, okay? I'm Gary's partner!
+val/dia11_utt0,0,I guess so.
+val/dia11_utt1,0,Here you go. Thank you!
+val/dia11_utt2,0,Wait, Rach! Where's the other one?
+val/dia11_utt3,2,Oh what, you-you want both of them?
+val/dia11_utt4,4,Rachel Karen Green, where's the other earring?!
+val/dia11_utt5,3,Okay, okay, okay, look, just don't freak out, but I kinda lost it.
+val/dia11_utt6,0,I know it's in the apartment, but I
+val/dia11_utt7,3,Well, what am I going to tell Monica? She wants to wear them tonight!
+val/dia11_utt8,4,Tell her to wear her own earrings.
+val/dia11_utt9,0,These
+val/dia11_utt10,4,Nooo! Nooooo! You lent me Monica's earrings?! I'm not allowed to borrow her stuff!
+val/dia11_utt11,0,Why not?
+val/dia11_utt12,4,Because I lose her stuff!
+val/dia12_utt0,0,Uh Phoebe, can I see you for a second?
+val/dia12_utt1,0,Yeah!
+val/dia12_utt2,0,What's going on?
+val/dia12_utt3,2,Chandler's gone again!
+val/dia12_utt4,6,Oh my God! Why would you play hide and seek with someone you know is a flight risk?!
+val/dia13_utt0,0,Okay. You ready to push again?
+val/dia13_utt1,4,I already had a baby. Leave me alone.
+val/dia13_utt2,1,Okay, okay, come on, you can do it. You can do it!
+val/dia13_utt3,1,Yeah!!
+val/dia13_utt4,1,Little Leslie is here!
+val/dia13_utt5,2,We got another one!
+val/dia13_utt6,2,Oh my God, I can't believe I have two-two children.
+val/dia13_utt7,2,How scary is that?
+val/dia13_utt8,1,Come on little Chandler, it's time to be born. Come on little Chandler! Come on!
+val/dia13_utt9,1,All right, he's coming. He's coming!
+val/dia13_utt10,2,Hey, where's his thing?
+val/dia13_utt11,2,Chandler's a girl!
+val/dia13_utt12,2,Oh God, kindergarten flashback.
+val/dia13_utt13,2,They musta read the sonogram wrong.
+val/dia13_utt14,2,Cause they, 'cause they thought it was a boy, but Chandler's a girl!
+val/dia13_utt15,2,Chandler's a girl!
+val/dia13_utt16,1,Okay, keep saying it!
+val/dia13_utt17,0,Am I too late?!
+val/dia13_utt18,1,No-no ah, everything's okay. Everybody's healthy there's 30 fingers and 30 toes.
+val/dia13_utt19,2,We have our babies?
+val/dia13_utt20,1,Yeah.
+val/dia13_utt21,1,Oh, we have our babies.
+val/dia14_utt0,1,Hey Toby!
+val/dia14_utt1,0,Hey Bobby.
+val/dia14_utt2,0,It's Bob actually. Hey, you work up here, can you tell me where this Chandler
+val/dia14_utt3,0,Uhh yeah. Yeah, it's  right, right down there.  Right there, yeah. Can I ask you why?
+val/dia14_utt4,4,I want to talk to that bastard, see what his problem is.
+val/dia14_utt5,6,Okay Bob listen uhh, I'm the reason you didn't get the job up here.
+val/dia14_utt6,6,Toby don't.
+val/dia14_utt7,6,Bob!
+val/dia14_utt8,4,Toby! I'm not gonna let you cover for him. Anything you say right now will just get me more upset with Chandler!
+val/dia15_utt0,1,Thank you.  Oh Joey and look at this crib! It's so cute!
+val/dia15_utt1,1,I know! I found it on the street.
+val/dia15_utt2,2,Are you serious Really?! It's in such good condition.
+val/dia15_utt3,0,Yeah.
+val/dia15_utt4,2,Wow! Whoa-whoa what's under the covers?
+val/dia15_utt5,0,I don't know.
+val/dia15_utt6,3,It's moving.
+val/dia15_utt7,5,Ew.
+val/dia15_utt8,3,It's still  It's got a tail! Get it out of here! Get it out of here!!
+val/dia15_utt9,3,Ooh! Ah! Okay!
+val/dia16_utt0,0,Well, I went over to Kyle's last night to pick up a few things and we got to reminiscing
+val/dia16_utt1,6,we talked through most of the night and we realized that the reason we were so angry at each other was because there are still feelings there. So
+val/dia16_utt2,2,Oh just say it Kyle!
+val/dia16_utt3,1,We're gonna give it another try.
+val/dia16_utt4,4,What about her whining and her constant need for attention?!
+val/dia16_utt5,0,I'm gonna work on that.
+val/dia16_utt6,4,Oh right, because you're so capable of change.
+val/dia16_utt7,4,Y'know, he hums when he pees!
+val/dia16_utt8,0,I do know.
+val/dia16_utt9,5,It makes him miss the bowl, but whatever.
+val/dia16_utt10,6,We're so sorry.
+val/dia16_utt11,4,That's all right, we-we don't need you. In fact, hey I'm over it already.
+val/dia16_utt12,4,Yeah, and y'know what? I don't give a tiny rat's ass.
+val/dia16_utt13,0,Yeah, we're gonna go.
+val/dia16_utt14,6,I'm sorry. Ugh, Pheebs, you were, you were right about her. Y'know, she
+val/dia16_utt15,0,Oh. Y'know, he hums while he does other stuff to.
+val/dia16_utt16,4,Yeah, we're better off without them.
+val/dia16_utt17,4,And y'know, even if they break up again, you'd better not let him in your sad men's club!
+val/dia16_utt18,6,Divorced men's club.
+val/dia17_utt0,4,Why isn't that valet back with my Porsche?
+val/dia17_utt1,4,Maybe because you've got the keys?
+val/dia17_utt2,4,This is totally your fault!
+val/dia17_utt3,4,My fault?! You threatened the judge!
+val/dia17_utt4,4,Well, you ripped the paper out of the court reporter's machine!!
+val/dia18_utt0,0,Phoebe!
+val/dia18_utt1,0,Yeah?
+val/dia18_utt2,0,Have you seen Chandler?!
+val/dia18_utt3,0,No! Why?
+val/dia18_utt4,3,The woman from the museum called and said that there was a cancellation and that we could move up our wedding and Chandler heard!
+val/dia18_utt5,3,I know!
+val/dia18_utt6,3,How bad is this?
+val/dia18_utt7,3,Well for the regular guy, it's bad, but Chandler, Oh dear God!
+val/dia18_utt8,3,I know! I know! And he totally freaked out and I can't find him anywhere!
+val/dia18_utt9,0,What are you gonna do?
+val/dia18_utt10,4,Well, I'm never gonna listen to you again, that's for sure!
+val/dia18_utt11,0,"Y'know, harm can it do if you go and put your name down?"
+val/dia18_utt12,2,Rachel said that!
+val/dia18_utt13,4,Well Rachel's not here!
+val/dia19_utt0,0,Come on, come on.
+val/dia19_utt1,4,Damnit, damnit, damnit, damnit.
+val/dia19_utt2,4,This is all your fault.
+val/dia19_utt3,4,This is supposed to be, like, the greatest day of my life, y'know?
+val/dia19_utt4,4,My son is being born, and I should be in there, you know, instead of stuck in a closet with you.
+val/dia19_utt5,4,The woman I love is having a baby today. I've been waiting for this just as much as you have.
+val/dia19_utt6,4,No no no, believe me.
+val/dia19_utt7,4,No one has been waiting for this as much as I have, ok?
+val/dia19_utt8,0,And you know what the funny thing is?
+val/dia19_utt9,4,When this day is over, you get to go home with the baby, ok?
+val/dia19_utt10,6,Where does that leave me?
+val/dia19_utt11,0,You get to be the baby's father.
+val/dia19_utt12,0,Everyone knows who you are.
+val/dia19_utt13,4,Who am I?
+val/dia19_utt14,6,There's Mother's Day, there's Father's Day, there's no... Lesbian Lover Day.
+val/dia19_utt15,0,Every day is Lesbian Lover Day.
+val/dia19_utt16,1,This is so great.
+val/dia19_utt17,0,You wanna explain that?
+val/dia19_utt18,6,I mean, well, 'cause when I was growing up, you know my dad left, and my mother died, and my stepfather went to jail, so I barely had enough pieces of parents to make one whole one.
+val/dia19_utt19,1,And here's this little baby who has like three whole parents who care about it so much that they're fighting over who gets to love it the most.
+val/dia19_utt20,6,And it's not even born yet.
+val/dia19_utt21,1,It's just, it's just the luckiest baby in the whole world.
+val/dia19_utt22,6,I'm sorry, you were fighting.
+val/dia20_utt0,0,Okay, it's a typical New York City apartment. Two girls are just hanging out.
+val/dia20_utt1,0,Hi, how are you doing Kelly?
+val/dia20_utt2,1,I'm doing just fine! God, Tiffany, you smell so great!
+val/dia20_utt3,0,It's my new perfume. Why don't you come closer where you can
+val/dia20_utt4,5,Oh, y'know Joey, you are sick!
+val/dia20_utt5,5,This is disgusting!
+val/dia20_utt6,5,I'm not reading this!
+val/dia20_utt7,2,What?! Wait-wait-wait! The handsome man was about to enter!!
+val/dia21_utt0,0,All right, I'll give you this, Mr. Peanut is a better dresser.
+val/dia21_utt1,0,I mean he's got the monocle, he's got the top hat...
+val/dia21_utt2,0,You know he's gay?
+val/dia21_utt3,0,I just wanna clarify this: are you outing Mr. Peanut?
+val/dia21_utt4,0,Danielle! Hi! Uh- everybody, this is Danielle, Danielle, everybody.
+val/dia21_utt5,0,Hi. Hi.
+val/dia21_utt6,2,What are you doing here?
+val/dia22_utt0,0,Well, what?
+val/dia22_utt1,0,What?
+val/dia22_utt2,0,What is it?
+val/dia22_utt3,2,That she left you?
+val/dia22_utt4,0,That she likes women?
+val/dia22_utt5,0,That she left you for another woman that likes women?
+val/dia22_utt6,4,Little louder, okay, I think there's a man on the twelfth floor in a coma that didn't quite hear you...
+val/dia22_utt7,0,Then what?
+val/dia22_utt8,0,My first time with Carol was...
+val/dia22_utt9,0,What?
+val/dia22_utt10,0,It was my
+val/dia22_utt11,2,With Carol?  Oh.
+val/dia22_utt12,2,So in your whole life, you've only been with one  oh.
+val/dia22_utt13,2,Whoah, boy, hockey was a big mistake! There was a whole bunch of stuff we could've done tonight!
+val/dia23_utt0,0,Hi. Where is everybody?
+val/dia23_utt1,6,Oh, it's already closed, Chris gave me the keys to lock up-what is wrong?
+val/dia23_utt2,6,My marriage, I think my marriage is um, is kinda over.
+val/dia23_utt3,2,Oh no! Why?
+val/dia23_utt4,6, Cause Carol's a lesbian.  And, and I'm not one. And apparently it's not a mix and match situation.
+val/dia23_utt5,2,Oh my God! I don't believe it! Oh, you poor bunny.
+val/dia23_utt6,5,I'm an idiot.
+val/dia23_utt7,6,I mean shoulda seen it, I mean Carol and I'd be out and she'd, she'd see some beautiful woman, and, and she'd be Ross y'know look at her, and I'd think, God, my wife is cool!
+val/dia23_utt8,0,Aw! Hey, do you think that Susan person is her lover?
+val/dia23_utt9,2,Well, now I do!!
+val/dia23_utt10,6,I'm sorry.
+val/dia23_utt11,6,Seven years.
+val/dia23_utt12,6,I mean we've been together seven years, she's the only woman who's ever loved me, and the only woman I've-I've ever....
+val/dia23_utt13,6,Aw, God Ross. Oh.
+val/dia24_utt0,0,I'll do it.
+val/dia24_utt1,0,No you won't.
+val/dia24_utt2,6,Look he knows he did a terrible thing and I believe him, he's sorry.
+val/dia24_utt3,0,But,  you've got one more apology to make, all right, you've got to apologize to Mary-Angela.
+val/dia24_utt4,1,Okay, absolutely!
+val/dia24_utt5,0,All right.
+val/dia24_utt6,0,You've got it.
+val/dia24_utt7,4,Cookie, now you can punch him!
+val/dia24_utt8,2,What?!
+val/dia25_utt0,4,All right, that's it, I quit.
+val/dia25_utt1,2,What? I didn't say anything.
+val/dia25_utt2,4,Yeah, but this  isn't the face of a person who trusts a person.
+val/dia25_utt3,4,Ok, this  is the face of a person who, you know, doesn't trust a person.
+val/dia25_utt4,6,I'm sorry. I'm sorry, Phoebe. It's just a little shorter than what we had discussed.
+val/dia25_utt5,4,Would you relax? I know what I am doing. This is how he wears it.
+val/dia26_utt0,0,Julie.
+val/dia26_utt1,2,What?!
+val/dia26_utt2,2,Jody!
+val/dia26_utt3,0,You were with Julie?
+val/dia26_utt4,0,Look, when it started I was just trying to be nice to her because she was my brother's girlfriend.
+val/dia26_utt5,0,And then, one thing led to another and, before I knew it, we were...shopping.
+val/dia26_utt6,2,Oh. Oh my God.
+val/dia26_utt7,6,Honey, wait. We only did it once. It didn't mean anything to me.
+val/dia26_utt8,4,Yeah, right.  Sure!
+val/dia26_utt9,6,Really, Rachel, I was thinking of you the whole time.
+val/dia26_utt10,6,Look, I'm sorry, all right.
+val/dia26_utt11,6,I never meant for you to find out!
+val/dia26_utt12,4,Oh, please, you wanted to get caught.
+val/dia26_utt13,4,That is not true!
+val/dia26_utt14,4,Oh, so you just sort of happened to leave it in here?
+val/dia26_utt15,4,Did it ever occur to you that I might just be that stupid?
+val/dia26_utt16,6,Ok, Monica. I just have to know one thing. Did you go with her to
+val/dia27_utt0,2,Yeah!
+val/dia27_utt1,0,I can't say.
+val/dia27_utt2,2,Why?!
+val/dia27_utt3,6,Why not?
+val/dia27_utt4,0,I can't say because he's famous.
+val/dia27_utt5,2,Oh my God, who is it?!
+val/dia27_utt6,4,Phoebe, come on, you have to tell us.
+val/dia27_utt7,0,Okay, okay. It's James Brolin. James Brolin is the father of my baby.
+val/dia27_utt8,2,As in Barbara Streisand's husband James Brolin?
+val/dia27_utt9,2,What?! Well he never said that to me!
+val/dia28_utt0,0,In
+val/dia28_utt1,6,Oh, this life! Oh okay no, Chandler's is worse.
+val/dia28_utt2,1,Man, it must be so cool remembering stuff like that! I don't have any past life memories.
+val/dia28_utt3,0,Of course you don't sweetie. You're brand new.
+val/dia28_utt4,0,I know Monica's worst Thanksgiving.
+val/dia28_utt5,6,Oh, let's not tell this story.
+val/dia28_utt6,6,Oh, come on!
+val/dia28_utt7,1,Oh no, I know! I know! It's the one where Joey got Monica's turkey stuck on his head!
+val/dia28_utt8,2,What?! Joey got a turkey stuck on his head?!
+val/dia28_utt9,0,Hey, it's not like it sounds.
+val/dia28_utt10,0,It's
+val/dia29_utt0,4,Wendy, we had a deal!  Yeah, you promised! Wendy! Wendy! Wendy!
+val/dia29_utt1,0,Who was that?
+val/dia29_utt2,6,Wendy bailed. I have no waitress.
+val/dia29_utt3,6,Oh... that's too bad. Bye bye.
+val/dia29_utt4,0,Ten dollars an hour.
+val/dia29_utt5,0,No.
+val/dia29_utt6,0,Twelve dollars an hour.
+val/dia29_utt7,0,Mon. I wish I could, but I've made plans to walk around.
+val/dia29_utt8,4,You know, Rachel, when you ran out of your wedding, I was there for you.
+val/dia29_utt9,4,I put a roof over your head, and if that means nothing to you...  twenty dollars an hour.
+val/dia29_utt10,1,Done.
+val/dia30_utt0,3,The reactor's gonna blow in three seconds, we're never gonna make it!
+val/dia30_utt1,3,You've got to get out of here! Save yourself!
+val/dia30_utt2,3,No! I won't leave you!
+val/dia30_utt3,6,Don't worry about me, I'm a robot! I'm just a machine!!
+val/dia30_utt4,4,No you're not! Not to me!
+val/dia30_utt5,2,Oh my God.
+val/dia30_utt6,0,What?
+val/dia30_utt7,0,I am
+val/dia30_utt8,1,Yeah, you're great! Okay, let's take it from
+val/dia30_utt9,1,No, I mean I was really acting my ass off.
+val/dia30_utt10,1,Yeah, I thought I was pretty good too.
+val/dia30_utt11,0,Oh yeah, you're solid. Yeah, you're just no me.
+val/dia30_utt12,0,Y'know what? I think that's enough for now. Yeah. I don't want to be over rehearsed.
+val/dia30_utt13,4,Fine!
+val/dia30_utt14,4,I'll do it without you!
+val/dia30_utt15,4,I don't need you or anybody else!
+val/dia30_utt16,4,I'm gonna make it on my own!
+val/dia30_utt17,4,You'll see!!
+val/dia30_utt18,0,You'll
+val/dia31_utt0,6,I can't believe that Ross is gone. It is just so sad.
+val/dia31_utt1,2,I didn't know Ross and you were so close.
+val/dia31_utt2,6,We weren't but we had one class together. He was such a great    guy and he talked so passionately about science. I always remembered him.
+val/dia31_utt3,0,I'm sure that would mean a lot to him.
+val/dia31_utt4,0,And if heaven has a    door, I'm sure he's pressing his ear up against it and listening intently.
+val/dia31_utt5,6,I thought so many times about calling him and asking him out.    I guess I really missed my chance.
+val/dia31_utt6,1,But you didn't!
+val/dia31_utt7,1,I'm still alive!!
+val/dia31_utt8,1,Kori, I know this is a big surprise for you.
+val/dia31_utt9,1,It's a long story but the things    you just said really made my day!
+val/dia31_utt10,1,I mean, the fact that you are here means more    to me than if this room were filled with people!
+val/dia31_utt11,4,You sick freak, who does that? I can't believe I had a crush on    you!
+val/dia31_utt12,1,Did you hear that? Kori Weston had a crush on me!!
+val/dia32_utt0,0,We'll do a quick check.
+val/dia32_utt1,0,Okay.
+val/dia32_utt2,2,So, eight days late huh?
+val/dia32_utt3,0,Yeah.
+val/dia32_utt4,0,You must be a little uncomfortable.
+val/dia32_utt5,0,Eh, just a tad.
+val/dia32_utt6,0,You're about 80 percent effaced, so you're on your way.
+val/dia32_utt7,0,It still could last a little while longer.
+val/dia32_utt8,0,If you're anxious there are a few ways to help things along.
+val/dia32_utt9,4,Do them!!
+val/dia32_utt10,0,Actually, they're things you can do. Just some home remedies, but in my experience I've found that some of them are quite effective.
+val/dia32_utt11,0,Well, we are ready to try anything.
+val/dia32_utt12,0,Okay, there's an herbal tea you can drink.
+val/dia32_utt13,0,Okay.
+val/dia33_utt0,6,What is wrong with Emma?
+val/dia33_utt1,0,Oh she misunderstood, she thought she was moving to Tulsa.
+val/dia34_utt0,0,Anytime you're ready.
+val/dia34_utt1,0,Ok, ok, here we go.
+val/dia34_utt2,0,Ok, where am I talking to, here?
+val/dia34_utt3,0,I mean, uh, well, there is one way that seems to offer a certain acoustical advantage, but...
+val/dia34_utt4,0,Just aim for the bump.
+val/dia34_utt5,0,Ok, ok, ok, ok, here goes.
+val/dia34_utt6,3,You know, I, you know, can't do this.
+val/dia34_utt7,5,Uh, this is too weird.
+val/dia34_utt8,6,I feel stupid.
+val/dia34_utt9,0,So don't do it, it's fine. You don't have to do it just because Susan does it.
+val/dia34_utt10,1,Hello, baby. Hello, hello.
+val/dia35_utt0,0,Oh, hi. It's Mark.
+val/dia36_utt0,3,Easy. Easy. You have to go to the hospital. Okay?
+val/dia36_utt1,0,Okay, I do.
+val/dia36_utt2,0,Okay.
+val/dia36_utt3,0,I really do.
+val/dia36_utt4,0,Okay, I'm gonna get your coat and then I'll-I'll put you in a cab.
+val/dia36_utt5,6,Okay. Oh wait, wait-wait, you're not gonna come with me?
+val/dia36_utt6,2,Of course I am. I just have to make a call.
+val/dia36_utt7,0,Okay.
+val/dia36_utt8,0,Okay?
+val/dia36_utt9,2,Thank you.  Oww!!!! God!
+val/dia36_utt10,3,What?! I wh-, what's wrong?
+val/dia36_utt11,5,I'm sorry, I just can't go to the hospital lookin' like this.
+val/dia37_utt0,0,Pete Becker is circling the ring now. It looks like, he's just trying to feel him out. Oh, Bruiser is just...
+val/dia37_utt1,3,Run! Run you crazy, rich freak!
+val/dia37_utt2,3,Oh, I can't watch this.
+val/dia37_utt3,2,Check it out, he's winning!  Pete's winning!
+val/dia37_utt4,2,Really?!
+val/dia37_utt5,3,No-o-o!!
+val/dia37_utt6,3,Uh-oh, Bruiser has Becker on the canvas and is going for his favourite area.
+val/dia37_utt7,5,Oh! Oh!
+val/dia37_utt8,2,Wait, if that's his favourite area, why is he being so mean to it?
+val/dia37_utt9,2,Well, this is ironic.
+val/dia37_utt10,0,Of your last two boyfriends, Richard didn't want to have kids, and from the looks of it, now Pete can't.
+val/dia38_utt0,4,Dude, you don't have to brag! We got nothing here!!
+val/dia39_utt0,0,Should we tell Rachel there's an empty private room right next door to hers?
+val/dia39_utt1,1,We could, or we can have sex in it.
+val/dia39_utt2,1,Well let me think about that, while I remove my pants!
+val/dia40_utt0,2,I thought I was a complete idiot.
+val/dia40_utt1,0,Hey, I'm with you. He even asked me if I thought you'd go out with him.
+val/dia40_utt2,5,Oh! Oh, I think I'm gonna throw up a little bit. What did you say?
+val/dia40_utt3,0,I said no.
+val/dia40_utt4,2,What?!
+val/dia40_utt5,2,What? I I just figured since you're pregnant you're not gonna be seeing people.
+val/dia40_utt6,4,Okay Joey, first of all Kash Ford is not people. Second of all, what did he say when you told him I was pregnant?
+val/dia40_utt7,0,I didn't tell him. I didn't know if you were telling people. This is back when I thought Kash was still people.
+val/dia40_utt8,3,Good-good, don't tell him. Don't tell him. Just have him call me okay?
+val/dia40_utt9,6,Rach look, I really don't think that's such a great
+val/dia40_utt10,1,Okay, you go do it! I'll come back to that set! I'll meet more actors! I'll meet  em all!
+val/dia41_utt0,0,Ohh, here you are. I was looking for you before. Joshua's gone so you and Emily are free to go.
+val/dia41_utt1,0,That's okay.
+val/dia41_utt2,0,She's still in there enjoying her fake party and uh, it's too late to do any of the things I had planned, so
+val/dia42_utt0,4,Ah! Ah! I forgot my jacket!
+val/dia42_utt1,4,You tell them to wait!
+val/dia42_utt2,0,Okay. Wait! Wait!
+val/dia42_utt3,0,Emily.
+val/dia42_utt4,4,Oh no-no-no! Oh-no!  No! No! Emily!
+val/dia43_utt0,0,Hey. Call me when you get there. Okay?
+val/dia43_utt1,0,Okay.
+val/dia44_utt0,6,I know. You're the guy who wouldn't chip in for the handyman.
+val/dia44_utt1,4,Nevermind!
+val/dia44_utt2,0,No, I-I actually thought it was unfair the way everyone reacted. I mean you had just moved in.
+val/dia44_utt3,0,Jen.
+val/dia44_utt4,0,Jen, I know this may sound a little  But uh, would you maybe wanna grab a cup of coffee sometime, or
+val/dia44_utt5,1,Sure! That would be nice.
+val/dia44_utt6,0,Umm?
+val/dia44_utt7,1,Oh! My number is on there.  Give me a call.
+val/dia44_utt8,0,I will give you a call.
+val/dia44_utt9,0,I'll see you later.
+val/dia44_utt10,1,Okay!
+val/dia44_utt11,0,I forgot my paper.
+val/dia45_utt0,0,Here we go. Okay, brace yourselves.
+val/dia45_utt1,0,What?
+val/dia45_utt2,0,Okay.
+val/dia45_utt3,2,Ow!
+val/dia45_utt4,0,Aren't you gonna go?
+val/dia45_utt5,0,No. Thank you.
+val/dia45_utt6,0,No, Rachel never pees in public restrooms.
+val/dia45_utt7,0,Well, they never have any paper in there y'know. So my rule is  no tissue, no tuschy.'  Well, if everybody's going.
+val/dia45_utt8,0,No, y'know what don't close it   cause the... keys...are in there.
+val/dia45_utt9,3,Oh, no-no-no-no-no-no!!
+val/dia45_utt10,0,What's going on?
+val/dia45_utt11,3,My lighter's in there!
+val/dia46_utt0,0,I promise.
+val/dia46_utt1,0,Although, don't feel like you can't visit.
+val/dia46_utt2,0,Hey, is, is, is Chandler here?
+val/dia46_utt3,0,No, no he's not.
+val/dia46_utt4,2,You guys, Joey just saw Janice kissing her ex-husband.
+val/dia46_utt5,2,What?  So what are you going to do? I mean how, how are you going to tell Chandler?
+val/dia46_utt6,0,Well, I was thinking about that and I, I think the best way would be, to not.
+val/dia46_utt7,0,Joey, you can't keep this to yourself, if you know about this, you have to tell him.
+val/dia46_utt8,3,It'll kill him. I mean it'll, it'll just kill him.
+val/dia46_utt9,0,Well, you could wait  til I go to the dentist, maybe
+val/dia47_utt0,0,Hey, what are you doing here?
+val/dia47_utt1,0,Well, oh just ah, I was just wondering, when you and I split up, did you get the tape that was half the last episode of
+val/dia47_utt2,0,Ah yeah, but now it's Susan and me in Mexico and the hostages coming home.
+val/dia47_utt3,0,Where's Ben?
+val/dia47_utt4,0,He's sleeping.
+val/dia47_utt5,2,Ahh.  Ooh, is this a ah, is this a bad time?
+val/dia47_utt6,1,Umm, yeah, actually, Susan's gonna be home any minute, it's kinda an anniversary.
+val/dia47_utt7,2,Oh! I thought you guys got married in uh, January?
+val/dia47_utt8,0,It's not that kind of anniversary.
+val/dia47_utt9,2,Ah!  Oh.
+val/dia47_utt10,0,Sooo!! Anyway...
+val/dia48_utt0,0,Where are we gonna find a tiny little hat?
+val/dia48_utt1,1,Oh, oh, oh, I'll get  Rainy Day Bear'!!
+val/dia48_utt2,1,Because he'll know what to do?  Oh my God, you're a genius!
+val/dia48_utt3,3,Oh God, oh God, it's sowed on though.
+val/dia48_utt4,0,Give it. Give it.
+val/dia48_utt5,0,Okay.
+val/dia48_utt6,2,Oh!!
+val/dia48_utt7,6,Oh, it's just like a bloodbath in here today.
+val/dia49_utt0,4,Please. This is so your fault.
+val/dia49_utt1,2,How, how is this my fault?
+val/dia49_utt2,4,Look, Carol never threw me out of a room before you came along.
+val/dia49_utt3,4,Yeah? Well, there's a lot of things Carol never did before I came along.
+val/dia49_utt6,4,Hey, hey, ok, all right, that's it!
+val/dia49_utt7,4,Get in here.
+val/dia49_utt8,0,Come on.
+val/dia49_utt9,4,My god, you guys, I don't believe you.
+val/dia49_utt10,4,There are children coming into the world in this very building and your negative fighting noises are not the first thing they should be hearing.
+val/dia49_utt11,4,So just stop all the yelling, just stop it!
+val/dia49_utt12,0,Yeah, Susan.
+val/dia49_utt13,4,Don't make me do this again, I don't like my voice like this.
+val/dia49_utt14,0,Ok, who wants to hear something ironic?
+val/dia50_utt0,2,Oh! Here it is!  Ooh, Joey! Why did you sign it, "Son of a bitch?"
+val/dia50_utt1,2,I didn't do that! Who would've done that?!
+val/dia50_utt2,4,Son of a bitch!
+val/dia50_utt3,0,Okay, maybe ask this guy.
+val/dia51_utt0,0,Oh, did I not mention? Carl is a guy I hired to be my identical twin for a medical research project.
+val/dia51_utt1,1,Y'know sometimes the good ideas are just right in front of you, aren't they?
+val/dia51_utt2,0,Okay, I know it sounds crazy, but I think it might work. Y'know? The only problem is, Carl's acting is
+val/dia51_utt3,0,The
+val/dia51_utt4,0,Yeah, he's the reason I didn't get that big
+val/dia51_utt5,0,Hey, uh can I get a little piece of that cake?
+val/dia51_utt6,4,Pizza!! We like Pizza!! Get out!!!
+val/dia52_utt0,0,Hey Monica, there's a customer who wants to complement the chef, should I let him in?
+val/dia52_utt1,1,Sure, I love this part!
+val/dia52_utt2,0,Come on in.
+val/dia53_utt0,1,Really? In the moment, I really wanted to kiss you too. In the moment.
+val/dia53_utt1,0,In the moment, yeah.
+val/dia53_utt2,1,But only in the moment. So do ya wanna kiss again?
+val/dia53_utt3,0,Sure, New Year's Eve is only two weeks away. Can you wait?
+val/dia53_utt4,0,No.
+val/dia53_utt5,0,Me neither.
+val/dia53_utt6,0,3, 2,
+val/dia53_utt7,1,Joey, you don't have to count down every time we kiss.
+val/dia53_utt8,1,Uh, yeah, okay. Except I sorta felt like I needed a couple of seconds to get ready.
+val/dia54_utt0,0,Alright. Phoebe?
+val/dia54_utt1,0,Okay, okay.
+val/dia54_utt2,1,If I were omnipotent for a day, I would want, um, world peace, no more hunger, good things for the rain-forest...And bigger boobs!
+val/dia54_utt3,0,Yeah, see.. you took mine. Chandler, what about you?
+val/dia54_utt4,0,Uh, if I were omnipotent for a day, I'd.. make myself omnipotent forever.
+val/dia54_utt5,5,See, there's always one guy.  "If I had a wish, I'd wish for three more wishes."
+val/dia54_utt6,0,Hey Joey. Hi. Hey, buddy.
+val/dia54_utt7,0,Hey, Joey, what would you do if you were omnipotent?
+val/dia54_utt8,6,Probably kill myself!
+val/dia54_utt9,2,..Excuse me?
+val/dia54_utt10,6,Hey, if Little Joey's dead, then I got no reason to live!
+val/dia54_utt11,2,Joey, uh-
+val/dia54_utt12,0,You
+val/dia55_utt0,6,I'm sorry.
+val/dia56_utt0,4,Joey, onstage!
+val/dia56_utt1,6,Well can you at least stay to the end of the play?
+val/dia56_utt2,6,I mean, I'll go to the airport with ya, I-I wanna say good bye.
+val/dia56_utt3,0,Where are you Vic?
+val/dia56_utt4,6,Flight's in an hour. I-I gotta go.
+val/dia56_utt5,4,Vic! Vic!
+val/dia56_utt6,4,In a minute!!
+val/dia56_utt7,6,So this is it? Victor?
+val/dia56_utt8,6,Yeah, I guess it is.
+val/dia56_utt9,6,Listen, I ah, I gotta say good bye, and-and I gotta say it quick  cause this is killing me.
+val/dia56_utt10,6,One thing you gotta know, is that I will never forget you.
+val/dia56_utt11,6,But, you've got things you have to do now, and so do I.
+val/dia56_utt12,6,And so  I'm gonna get on this spaceship,  and I'm gonna go to Blargon 7 in search of alternative fuels.
+val/dia56_utt13,6,But when I return, 200 years from now, you'll be long gone.
+val/dia56_utt14,0,But I won't have aged at all.
+val/dia56_utt15,0,So you tell your great-great-granddaughter to look me up, because Adrienne, baby, I'm gonna want to meet her.
+val/dia56_utt16,6,So long, Vic!
+val/dia57_utt0,0,Nooo Way! The most romantic song ever is
+val/dia57_utt1,0,See, I-I think that one that Elton John wrote for, um, that guy on
+val/dia57_utt2,0,What song was that, Pheebs?
+val/dia57_utt3,1,Hi Monica!
+val/dia57_utt4,1,Hey Mon!
+val/dia57_utt5,1,Hey Mon!
+val/dia57_utt6,2,Oh my God, has she slept at all?
+val/dia57_utt7,0,Nope.
+val/dia57_utt8,0,No, it's been three nights in a row.
+val/dia57_utt9,0,Yeah, she finally stopped crying yesterday, but then she found one of Richard's cigar butts out on the terrace, so.
+val/dia57_utt10,0,Oh, okay that explains it.
+val/dia57_utt11,0,I got a call at two in the morning, but all I could hear was, like, this high squeaky sound, so I thought okay its like a mouse or a opossum.
+val/dia57_utt12,1,But then I realized where would a mouse or a opossum get the money to make the phone call.
+val/dia58_utt0,0,So uh, man, are you gonna go to the play with me tonight?
+val/dia58_utt1,5,Y'know what, I don't know how comfortable I am going to see how hot the sex is between some guy and your girlfriend.
+val/dia58_utt2,0,Yeah, I know but
+val/dia58_utt3,0,Oh no-no-no, I'm there.
+val/dia58_utt4,2,Hey!
+val/dia58_utt5,1,Hey Mon! Want some pancakes?
+val/dia58_utt6,2,You made pancakes?
+val/dia58_utt7,1,Yep! Grab a plate.
+val/dia58_utt8,0,No-no, stay right there.  Gettin' closer.
+val/dia58_utt9,0,Okay, okay, but don't worry, because we also have cereals, muffins, waffles,
+val/dia58_utt10,0,Listen also we're uh, we're watching the game here Saturday night, if people want to come over.
+val/dia58_utt11,1,Oh yeah!
+val/dia59_utt0,0,Yes, if the foxhole was lined with sandwiches.
+val/dia59_utt1,0,Yeah, hero sandwiches.
+val/dia59_utt2,0,Well you all know that I'm a pacifist so I'm not interested in war in any way.
+val/dia59_utt3,0,When the revolution comes, I will have to destroy you all.
+val/dia59_utt4,0,Not you Joey.
+val/dia60_utt0,2,Oh my good God.
+val/dia60_utt1,0,Hey! Continuing the countdown of your favorite meals. Tonight, No. 3, macaroni and cheese with cut up hot dogs.
+val/dia60_utt2,4,Look, you have done enough! Okay? You have to stop this now.
+val/dia60_utt3,1,I will! But not tonight. For dinner music, I thought we could listen to that tape you made me.
+val/dia60_utt4,0,Oh, the mixed tape.
+val/dia60_utt5,1,The Way You Look Tonight
+val/dia60_utt6,1,You are just the sweetest.
+val/dia61_utt0,1,Hey!
+val/dia61_utt1,1,Hey!
+val/dia61_utt2,0,Hey, guess what I'm doing tonight.
+val/dia61_utt3,0,What?
+val/dia61_utt4,0,I'm checking out the restaurant with Pete.
+val/dia61_utt5,1,Ohh, Monica, I am so excited for you.
+val/dia62_utt0,0,So honey this uh, this threesome thing umm, I mean how-how are you gonna start to find
+val/dia62_utt1,1,Ooh, actually I've been making a list of all the women I know who might be into doing this!
+val/dia62_utt2,2,Oh.  Wow!  Huh.  Boy!  Well, someone's been doing their homework.
+val/dia62_utt3,0,Yeah. Ooh, and I know Gail Rosten is in there twice, but she is so
+val/dia62_utt4,0,Oh, I know.  Y'know, just-just talking about it is getting me kinda
+val/dia62_utt5,0,Oh, me too.
+val/dia63_utt0,1,and then, we could've gone from the ceremony to the reception with you in the sidecar!
+val/dia63_utt1,0,Ross, it just wouldn't have been feasible.
+val/dia63_utt2,4,But having a dove place the ring on your finger would've been no problem?
+val/dia63_utt3,1,It was really fun being married to you tonight.
+val/dia63_utt4,1,Yeah! And! And, it was the easiest 400 bucks I've ever made.
+val/dia63_utt5,6,Okay Ross, can I uh, can I ask you something?
+val/dia63_utt6,0,Yeah.
+val/dia63_utt7,0,That proposal, at the planetarium
+val/dia63_utt8,6,I know, I know it was stupid.
+val/dia63_utt9,2,Are you kidding?!
+val/dia63_utt10,1,With the, with the lilies, and-and the song, and the stars!
+val/dia63_utt11,1,It was really wonderful!
+val/dia63_utt12,2,Did you just make that up?
+val/dia63_utt13,0,No, actually I thought about it when, when we were going out.
+val/dia63_utt14,0,It's how I imagined I uh, I would ask you to marry me.
+val/dia63_utt15,0,Well, that would've been very hard to say no too.
+val/dia63_utt16,0,It's a good thing I didn't do it, because it sounds like it would've been a very expensive wedding.  Okay, good night
+val/dia63_utt17,0,Goodnight
+val/dia63_utt18,0,Even if the sidecar had a windscreen so your hair wouldn't get messed up?
+val/dia63_utt19,0,I will think about it.
+val/dia63_utt20,0,That's all I'm askin'
+val/dia64_utt0,2,You guys! It was bananas, cream, and beef! I-I just cannot believe that you ate that so that I wouldn't feel bad!
+val/dia64_utt1,1,Well actually, I-I didn't eat mine. It's still in the bathroom.
+val/dia64_utt2,0,No it isn't, I ate that.
+val/dia64_utt3,0,Well we left ours in Monica's bedroom.
+val/dia64_utt4,0,Nope, got it and I got yours  too.
+val/dia65_utt0,1,And that's I'm so glad  there's no problem.
+val/dia65_utt1,0,That's fine, actually I'm on the hiring committee, so there'll be at least one friendly face.
+val/dia65_utt2,1,Ohh! That's great!
+val/dia65_utt3,0,You know, Junior Miss is where I started. Oh, I had to sleep with the
+val/dia65_utt4,2,Really?!
+val/dia65_utt5,1,No-ho-ho!
+val/dia65_utt6,0,Yeah.
+val/dia65_utt7,0,I mean, no-no-no-no-no, don't you worry, I'm sure with your qualifications you won't need to sleep with some guy to get that job.
+val/dia65_utt8,0,Although, I might need some convincing.
+val/dia65_utt9,3,Well, I, umm
+val/dia65_utt10,1,Kidding! God, I feel wild today!
+val/dia66_utt0,2,Oh my God! Chandler just left though!
+val/dia66_utt1,0,Yeah but, maybe it's not what we think. Maybe it's tell Monica I'm sorry I drank the last of the milk.
+val/dia66_utt2,0,Or maybe he-he was writing to tell her that-that he's changed his name, y'know? Tell Monica I'm sorry.
+val/dia66_utt3,2,I think it means he freaked out and left!
+val/dia66_utt4,4,Don't be so negative! Good God! Isn't it possible that Sorry is sitting in there  right now?!
+val/dia66_utt5,6,Okay. Phoebe, I-I think Ross is right. What are we gonna do?
+val/dia66_utt6,0,Look Okay, I'm just gonna I'm gonna have to go find him and bring him back!
+val/dia66_utt7,0,Okay?
+val/dia66_utt8,0,You-you make sure Monica does not find out, okay?
+val/dia66_utt11,0,I will, I will find him.
+val/dia67_utt0,1,Hey!
+val/dia67_utt1,1,Hi! Hey!
+val/dia67_utt2,0,Do you guys know any cute guys?
+val/dia67_utt3,1,Well, of course I do! My good friend Joey over here.
+val/dia67_utt4,1,Oh, I'm sorry. Thank you Chandler.
+val/dia67_utt5,0,Anyway, there's this big charity ball this weekend and Ralph Lauren bought a table, so I kinda have to go
+val/dia67_utt6,0,What's the charity?
+val/dia67_utt7,0,I don't know, something either trees or disease Ralph mumbles a lot.
+val/dia67_utt8,0,Does Ralph mumble when you're not paying attention?
+val/dia67_utt9,2,Yeah! It's weird. But the thing is need to find a date.
+val/dia67_utt10,0,Well, what kind of guy are you looking for?
+val/dia68_utt0,1,Hey!
+val/dia68_utt1,0,What are you guys doing later?
+val/dia68_utt2,0,Oh, Rachel and I have appointments to get our hair cut.
+val/dia68_utt3,2,We do?
+val/dia68_utt4,0,I want to see what he wants first.
+val/dia68_utt5,6,I just found out that Elizabeth's dad wants to meet me.
+val/dia68_utt6,2,Wait a minute, hold the phone! You're not Elizabeth's dad?!
+val/dia68_utt7,3,Come on guys, I-I really want this guy to like me.
+val/dia68_utt8,6,It-it would really help me out if you guys were here to make me look good.
+val/dia68_utt9,1,Of course we'll help! Yeah! We'll be here!
+val/dia68_utt10,1,Thanks!
+val/dia68_utt11,0,We know how tough those parent/teacher conferences can be.
+val/dia69_utt0,1,Oh, hi! How are you doing?
+val/dia69_utt1,6,I'm okay. I gotta go down to the police station and look at mug shots.
+val/dia69_utt2,0,Thanks for having me over, you guys.
+val/dia69_utt3,0,Tag?
+val/dia69_utt4,1,Y-You're going?
+val/dia69_utt5,0,Uh we didn't, uh we didn't get the chance to talk.
+val/dia69_utt6,0,Uh, so, where did you say you're from again?
+val/dia69_utt7,0,Colorado.
+val/dia69_utt8,0,Ah, what good are you.
+val/dia69_utt9,0,Look, um, I think we should talk about what happened on the terrace.
+val/dia69_utt10,0,Okay.
+val/dia69_utt11,6,Ah, I-I never should have said what I said.
+val/dia69_utt12,0,It y'know what?
+val/dia69_utt13,6,It just doesn't matter how I feel.
+val/dia69_utt14,6,I mean we work together, so nothing could really ever happen between us, and what I would love is just to go to work on Monday, and-and never talk about this again, okay?
+val/dia69_utt15,0,Um, I'm not.
+val/dia69_utt16,6,Oh, god, I knew it, that I freaked you out.
+val/dia69_utt17,6,No, you didn't. The only thing that freaked me out was you saying that nothing could ever happen between us.
+val/dia69_utt18,2,Really?
+val/dia69_utt19,6,Yeah, so, please don't fire me for doing this.
+val/dia70_utt0,4,Get him! GET HIM! Get him! Get- YESSS! Not laughing now, are ya pal!
+val/dia70_utt1,0,See buddy, that's all you need, a bunch of toothless guys hitting each other with sticks.
+val/dia70_utt2,1,Pass it! Pass it!
+val/dia70_utt3,1,He's open!
+val/dia70_utt4,1,Shoot! Shoot! Shoot!
+val/dia70_utt5,2,Hey, look, we're on that TV thing!
+val/dia71_utt0,1,I am so psyched I kept this chair for myself!
+val/dia71_utt1,0,Yeah, me too.
+val/dia71_utt2,2,Yeah? Wow! Y'know, that this thing has speakers in the headrest!
+val/dia71_utt3,2,No. Really?
+val/dia71_utt4,1,Yeah! You can hook it up to your TV
+val/dia71_utt5,0,My chair heals itself.
+val/dia72_utt0,4,Tiger!  Dragon! Iceberg!!  Joseph, did you even study at all last night?
+val/dia72_utt1,6,Yes! Yes, I did.
+val/dia72_utt2,4,Then do Iceberg!
+val/dia72_utt3,0,G-sharp.
+val/dia72_utt4,0,G
+val/dia72_utt5,2,What?! I didn't touch a guitar!
+val/dia72_utt6,4,No, but you're questioning my method!
+val/dia72_utt7,4,No, I'm not questioning it, I'm saying it's stupid!  What?!
+val/dia72_utt8,0,Thank you.
+val/dia72_utt9,4,Y'know none of my other student thought I was stupid.
+val/dia72_utt10,4,Your other student, was you!
+val/dia72_utt11,4,Yeah, well, y'know maybe you just need to try a little harder!
+val/dia72_utt12,4,Look, maybe I need to try a real teacher!
+val/dia72_utt13,4,Right here!
+val/dia72_utt14,4,Here!
+val/dia72_utt15,0,Andy Cooper, he teaches guitar and look ooh, there's a nice picture of him with a little kid and
+val/dia72_utt16,4,Fine! You go learn from your qualified instructor! But don't come crying to me when everyone's sick and tired of hearing you play
+val/dia72_utt17,0,"Baddest man in the whole damn town."
+val/dia72_utt18,4,Oh, fine! Take his side!
+val/dia73_utt0,4,And shame on you! You should know better, Joey needs to work.  Now come on!
+val/dia73_utt1,4,Hey!
+val/dia73_utt2,4,No! Ah-ah-ah-ah-ah! You can have this back when the five pages are done!  Ahh!
+val/dia74_utt0,1,Hi!
+val/dia74_utt1,0,Hi.
+val/dia74_utt2,1,Hi.  Umm, I think there's something that we really need to talk about.
+val/dia74_utt3,6,I think we do. Why don't we go inside?  Look uh, I know why you're here.
+val/dia74_utt4,2,You do?
+val/dia74_utt5,0,Yeah, and to save you from any embarrassment umm, I think maybe I should talk first.
+val/dia74_utt6,0,Okay.
+val/dia74_utt7,0,Okay.  Uh, Ross and Rachel. Rachel and Ross. That's been one heck of a see-saw hasn't it?
+val/dia74_utt8,2,What?
+val/dia74_utt9,6,I mean look, that-that one night we had was fun and and certainly passionate, but don't you think it's better if we just stayed friends?
+val/dia74_utt10,2,Seriously. What?!
+val/dia74_utt11,0,Okay.
+val/dia74_utt12,0,Okay.
+val/dia74_utt13,0,Y'know what?
+val/dia74_utt14,0,If you want to, we can do it one more time.
+val/dia74_utt15,0,I mean I'd-I'd be okay with that.
+val/dia74_utt16,0,In fact, I have some time right now.
+val/dia74_utt17,1,Okay, y'know what? Can I, can I talk now?
+val/dia74_utt18,0,Oh sure.
+val/dia74_utt19,4,I'm pregnant.  Ross?  Ross?  Okay, whenever you're ready.  And you're the father by the way but you got that
+val/dia75_utt0,0,We should defiantly play football more often. Maybe there's a like league we could join or something.
+val/dia76_utt0,1,I know!
+val/dia76_utt1,2,Yes! Wow, well, that-that was easy. Okay, you-you go.
+val/dia76_utt2,0,Okay.
+val/dia76_utt3,0,Okay.
+val/dia76_utt4,1,Okay, you know, you know when your in bed, with a woman.
+val/dia76_utt5,0,Hmph.
+val/dia76_utt6,1,And, ah, you know, your fooling around with her.
+val/dia76_utt7,1,And you get all these like, mental images in your brain, you know, like Elle MacPherson, or that girl at the Xerox place....
+val/dia76_utt8,1,With the belly-button ring? Oh, muhawa!
+val/dia76_utt9,4,I know, And then all of the sudden your Mom pops into your head.
+val/dia76_utt10,4,And your like 'Mom, get outta here!'
+val/dia76_utt11,4,You know, but of course, like, after that you can't possibly think of anything else, and you can't, you know, stop what your doing.
+val/dia76_utt12,0,So it's kinda like, you're, you know.
+val/dia76_utt13,2,You know.... You don't know!
+val/dia76_utt14,5,Your Mom, your telling me, your telling me, about your Mom, what is the matter with you?
+val/dia76_utt15,0,You said...
+val/dia76_utt16,0,I said '
+val/dia77_utt0,2,Oh!
+val/dia77_utt1,2,Look at Emma!
+val/dia77_utt2,0,I just can't decide who she looks more alike, you or Rachel?
+val/dia77_utt3,1,Oh what are you kidding? She's gorgeous, it's all Rachel.
+val/dia77_utt4,0,I'm sorry, for the last time, why aren't you two together again?
+val/dia77_utt5,0,No, I know.
+val/dia77_utt6,0,I know, because you're not in that place.
+val/dia77_utt7,0,Which would be fine, except you totally are.
+val/dia77_utt8,6,It's it's complicated okay?
+val/dia77_utt9,0,Yeah that's true. Yeah, you love her. You always have. You have a child together. There is no right answer.
+val/dia77_utt10,6,Look, we've been together.
+val/dia77_utt11,0,Okay?
+val/dia77_utt12,6,And then apart, and then together, and then apart, and now we have a baby.
+val/dia77_utt13,6,It's just if-if we got together again and it didn't work out I could never do that to Emma.
+val/dia77_utt14,6,I mean she-she thinking everything  Oh that's now me.
+val/dia77_utt15,0,What do they put something in the water in this place?
+val/dia77_utt16,6,Since Rachel and I we're doing really, we're doing really well right now.
+val/dia77_utt17,0,I know. I know. I know. I know, and if you try to make it more you might wreck it.
+val/dia77_utt18,0,Yeah, exactly.
+val/dia77_utt19,0,Right.  Or you might get everything you've wanted since you were fifteen.
+val/dia78_utt0,1,God. I forgot how much I love driving. I have
+val/dia78_utt1,0,You don't have a
+val/dia78_utt2,0,Oh Ross you're so tense! You just gotta relax, okay? Just need to relax all right? Just need to relax
+val/dia78_utt3,4,What-what are you doing?! Are you Okay that's not funny! Just stop horsing around!
+val/dia78_utt4,1,I am not horsing around, okay? I am Porsching around.
+val/dia78_utt5,3,Uh-oh.
+val/dia78_utt6,0,Okay, stay calm. Nothing is going to happen to you, you are not in that much trouble.
+val/dia78_utt7,3,Really? You think so?
+val/dia78_utt8,4,I was talking to myself! You're going down!
+val/dia79_utt0,1,Hey honey! I missed you today!
+val/dia79_utt1,2,Oh, yeah?
+val/dia79_utt2,0,Yeah.  What d'you wanna do tonight?
+val/dia79_utt3,0,Oh, well... Maybe we could...
+val/dia79_utt4,1,Ok, trying to turn me on by making a mess?
+val/dia79_utt5,1,Know your audience!
+val/dia79_utt6,0,Besides, tomorrow we're doing those fertility tests and until then you need    to keep your tadpoles in the tank.
+val/dia79_utt7,6,We really need to take those tests?
+val/dia79_utt8,0,Honey, we've been trying to have a baby for over a year.
+val/dia79_utt9,0,I think    it's a good idea to find out if everything's ok. Just a few routine tests.
+val/dia79_utt10,6,But I don't wanna do it in a cup!
+val/dia80_utt0,0,Oh, hi Max! Hey, do you know everybody?
+val/dia80_utt1,0,No. Have you seen David?
+val/dia80_utt2,0,No, no, he hasn't been around.
+val/dia80_utt3,0,Well, if you see him, tell him to pack his bags. We are going to Minsk.
+val/dia80_utt4,2,Minsk?
+val/dia80_utt5,0,Minsk. It's in Russia.
+val/dia80_utt6,0,I know where Minsk is.
+val/dia80_utt7,1,We got the grant. Three years, all expenses paid.
+val/dia80_utt8,0,So when, when do you leave?
+val/dia80_utt9,0,January first
+val/dia81_utt0,1,You wanted to see me Professor Geller?
+val/dia81_utt1,0,Yes. Yes! Please, come in.
+val/dia81_utt2,1,Oo-oo!
+val/dia82_utt0,1,Pretty great! Except I did get a little attitude from the robot.
+val/dia82_utt1,4,Damn those robots, they're supposed to be our
+val/dia82_utt2,0,Anyway, it wasn't the robot, it was the guy who controls him.
+val/dia82_utt3,4,Yeah, he doesn't like me.
+val/dia82_utt4,0,He had C.H.E.E.S.E.
+val/dia82_utt5,4,knock over the sandwich right when I was reaching for one!
+val/dia82_utt6,2,Ohh!
+val/dia82_utt7,0,Well, why don't you just get him fired?
+val/dia82_utt8,4,I may have to, I hate to do it, but I'm the star!
+val/dia82_utt9,0,Y'know?
+val/dia82_utt10,0,There's a limit to how many sandwiches I can eat off the floor.
+val/dia82_utt11,0,Excuse me.
+val/dia82_utt12,0,Joey Tribbiani.
+val/dia82_utt13,1,Joe! I'm glad I found ya, I got an audition for ya!
+val/dia82_utt14,2,Wow!
+val/dia82_utt15,0,The thing is it's kinda on the Q.T.
+val/dia82_utt16,0,The actor who has the part doesn't know he might be fired.
+val/dia82_utt17,0,It's the lead in a series, Mac and C.H.E.E.S.E.
+val/dia82_utt18,4,I'm the lead in Mac and C.H.E.E.S.E.!!
+val/dia83_utt0,4,Oh good God! If you want a baby so bad just go steal it!
+val/dia83_utt1,2,What is going on with you? Since when are you so crazy about babies?
+val/dia83_utt2,1,I'm not crazy about babies. I'm crazy about us.
+val/dia83_utt3,2,What?
+val/dia83_utt4,0,Look, we've always talked about having babies someday.
+val/dia83_utt5,0,I'm not saying it has to be right now, but I'm starting to think that we can handle it.
+val/dia83_utt6,0,We're good.
+val/dia83_utt7,1,We're really good.
+val/dia84_utt0,2,Oh, did you catch him?!
+val/dia84_utt1,2,Wh-what did he say?!
+val/dia84_utt2,0,He said, "Nice to meet you Glenda."  Well, obviously I couldn't give him my real name?
+val/dia84_utt3,2,Why?! Why not?!
+val/dia84_utt4,6,Come on, you saw the way he ran out of here!
+val/dia84_utt5,6,He's gonna stick around and talk to the daughter he abandoned!
+val/dia84_utt6,0,What did you say to him?
+val/dia84_utt7,0,Well, I said, I told him y'know, that I was the executor person of Francis' will and that I needed to talk to him so I'm gonna meet him at the coffee house later.
+val/dia85_utt0,0,Oh yeah, sure.
+val/dia85_utt1,1,Okay, in about ten seconds you're gonna see him kiss me.
+val/dia85_utt2,0,And in about five seconds you're gonna see why.
+val/dia85_utt3,0,Ross did I ever tell you about the time that I went backpacking through Western Europe?
+val/dia85_utt4,1,Okay, get ready to see some beggin'!
+val/dia85_utt5,2,Oh, you came on to Ross!
+val/dia85_utt6,2,What?!
+val/dia85_utt7,1,Now I'm so happy.
+val/dia85_utt8,2,What are you talking about?!
+val/dia85_utt9,1,You used the Europe story!
+val/dia85_utt10,4,That's the magic story you use when you wanna have sex!
+val/dia85_utt11,2,How do you know about that story?!
+val/dia85_utt12,0,How do
+val/dia85_utt13,0,I heard it from my friend Irene who heard it from some guy!
+val/dia85_utt14,2,Some guy!!
+val/dia85_utt15,0,No. No, she told me his name was Ken Adams.
+val/dia85_utt16,2,Ken Adams!!
+val/dia86_utt0,0,How we doing, you guys ready?
+val/dia86_utt1,0,Mom already called this morning to remind me not to wear my hair up. Did you know my ears are not my best feature?
+val/dia86_utt2,0,Some days it's all I can think about.
+val/dia86_utt3,0,Hi, sorry I'm late, I couldn't find my bearings.
+val/dia87_utt0,0,Oh... ok, fine.
+val/dia87_utt1,0,But... ehm...
+val/dia87_utt2,0,I just have one question for you,    ehm...
+val/dia87_utt3,0,When we exit should we walk, or run, or prance,    or stroll...
+val/dia87_utt4,1,Stop it, stop it! He talks slow but he might pee fast! Ok,    let's go!!
+val/dia88_utt0,2,I can't believe this! How long as this been going on?
+val/dia88_utt1,0,Well umm, Alexandra has been
+val/dia88_utt2,2,Oh, it has a name?
+val/dia88_utt3,6,Phoebe, don't get upset!
+val/dia88_utt4,4,Okay Oop! Too late! I'm leaving! Come on Chandler let's go!
+val/dia88_utt5,0,Well, Phoebe I thought I'd  Yeah, what the hell.
+val/dia89_utt0,3,Ben!
+val/dia89_utt1,4,Oh, that's good. Maybe he'll hear you and pull the cord.
+val/dia89_utt2,3,Stop the bus! Wait! Wait! Wait!
+val/dia89_utt3,0,Are you sure he didn't break it because it really hurts?
+val/dia89_utt4,0,No, it's just a good bone bruise. And, right here  is the puncture wound from your ring.
+val/dia89_utt5,6,Oh, I'm sorry, I'm really sorry.
+val/dia89_utt6,6,Sorry.
+val/dia89_utt7,6,Sorry!
+val/dia89_utt8,1,I got my s's back!
+val/dia89_utt9,0,Which we can celebrate later.
+val/dia89_utt10,0,Celebrate.
+val/dia90_utt0,1,Ok, Paulo, why don't you just go get dressed, and then you be on your way, ok, bye-bye.
+val/dia90_utt1,0,Rachel, how did this happen?
+val/dia90_utt2,3,I don't know, I just kinda ran into him last night.
+val/dia90_utt3,0,Where?
+val/dia90_utt4,0,At his apartment. Is this juice?
+val/dia90_utt5,4,Whoa, whoa. And the fact that you dumped him because he hit on Phoebe?
+val/dia90_utt6,6,Oh God, I know I'm a pathetic loser.
+val/dia91_utt0,2,I licked my arm, what?
+val/dia91_utt1,0,It's breast milk.
+val/dia91_utt2,0,So?
+val/dia91_utt3,0,Phoebe, that is juice, squeezed from a person.
+val/dia91_utt4,4,What is the big deal?
+val/dia91_utt5,2,What did you just do?
+val/dia91_utt6,5,Ok, would people stop drinking the breast milk?
+val/dia91_utt7,0,You won't even taste it?
+val/dia91_utt8,5,No!
+val/dia91_utt9,0,Not even if you just pretend that it's milk?
+val/dia91_utt10,5,Not even if Carol's breast had a picture of a missing child on it.
+val/dia92_utt0,2,Aww!
+val/dia92_utt1,5,Hey Pheebs, could you please not put your feet up on my new  old sheet?
+val/dia92_utt2,1,Oh sure!  Noo!
+val/dia92_utt3,2,Ohh!!
+val/dia92_utt4,2,My apothecary table!!!
+val/dia92_utt5,2,What?!
+val/dia92_utt6,3,Noooooo!!
+val/dia92_utt7,2,Ross, where did you get this?!
+val/dia92_utt8,4,Oh my God, Phoebe,
+val/dia92_utt9,4,Wow! Oh my God, well if they've ripped off our table ours must be much more than one and fifty dollars!
+val/dia92_utt10,5,Well this doesn't even smell like opium.
+val/dia92_utt11,4,Of course not, it smells like wine, which you spilled! And thanks for wrecking my sheet by the way.
+val/dia93_utt0,6,How is she?
+val/dia93_utt1,0,It's too soon to tell. She's resting, which is a good sign.
+val/dia93_utt2,0,How's the hair?
+val/dia93_utt3,6,I'm not gonna lie to you, Ross, it doesn't look good.
+val/dia93_utt4,0,I put a clip on one side, which seems to have stopped the curling.
+val/dia93_utt5,0,Can we see her?
+val/dia93_utt6,6,Your hair looks too good, I think it would upset her. Ross, why don't you come on in.
+val/dia93_utt7,6,How're you doing?
+val/dia94_utt0,0,Of course the packaging does appeal to grown-ups and kids alike.
+val/dia94_utt1,1,Ross, you're being silly. I've tried it, it's no big deal. Just taste it.
+val/dia94_utt2,5,That would be no.
+val/dia94_utt3,0,Come on. It doesn't taste bad.
+val/dia94_utt4,0,Yeah, it's kinda sweet, sorta like, uh...
+val/dia94_utt5,1,Cantaloupe juice.
+val/dia94_utt6,0,Exactly.
+val/dia94_utt7,2,You've tasted it? You've tasted it.
+val/dia94_utt8,0,Uh huh.
+val/dia94_utt9,4,Oh, you've tasted it.
+val/dia94_utt10,0,You can keep saying it, but it won't stop being true.
+val/dia94_utt11,4,Gimme the bottle.  Gimme the towel.
+val/dia95_utt0,4,I still don't get why Greg and Jenny would give us a fake number.
+val/dia95_utt1,0,Y'know, if they knew what they were doing they probably didn't give you real names either.
+val/dia95_utt2,4,Okay, maybe people give out fake numbers, but they don't give out fake names.
+val/dia95_utt3,0,Oh yeah?  Hi, Ken Adams, nice to meet you.
+val/dia95_utt4,0,Regina Philange.
+val/dia95_utt5,2,I still don't get it, we didn't do anything wrong.
+val/dia95_utt6,4,I know! Although, you did tell an awful lot of jokes.
+val/dia95_utt7,2,I thought you said those jokes were funny. Joke! Joke! Joke!
+val/dia95_utt8,4,Joke. Joke. Blah! Blah!
+val/dia95_utt9,0,Well maybe it was all of your questions.
+val/dia95_utt10,0,What about my questions?
+val/dia96_utt0,0,No, I'm sorry. It's just my foot itches like crazy.
+val/dia96_utt1,0,Oh, I'll get it.
+val/dia96_utt2,2,Wow! I usually get to know a girl a little better before I let her spoon me.
+val/dia96_utt3,1,Relax, it's not like we're forking.
+val/dia97_utt0,1,Look at it! Ohhh! Wallpaper's a little faded, that's okay. Carpet's a little loose. Hardwood floors!!
+val/dia97_utt1,1,Hey!
+val/dia97_utt2,0,Hello.
+val/dia97_utt3,1,Oh! Ooh! Oh Monica! It's so beautiful.
+val/dia97_utt4,1,I know!!!
+val/dia97_utt5,1,So, I'm here, ready to play.
+val/dia97_utt6,0,Okay.
+val/dia97_utt7,1,I brought a bunch of stuff for the house, so check it out. Ha-ha.
+val/dia97_utt8,2,What's this?
+val/dia97_utt9,1,That's a dog, every house should have a dog.
+val/dia97_utt10,2,Not one that can pee on the roof.
+val/dia97_utt11,1,Well, maybe it's so big because the house was built on radioactive waste.
+val/dia97_utt12,2,And is this in case the house sneezes?
+val/dia97_utt13,0,No, no, that's the ghost for the attic.
+val/dia97_utt14,3,I don't want a ghost.
+val/dia97_utt15,0,Well, nobody wants a ghost. But you've got one, because the house is sitting on an ancient Indian burial ground.
+val/dia97_utt16,2,Wait a minute, the house was built on radioactive waste, and an ancient Indian burial ground? That would never happen.
+val/dia97_utt17,0,Okay, obviously you don't know much about the U.S. government.
+val/dia97_utt18,2,Hey!
+val/dia97_utt19,0,Hello.
+val/dia97_utt20,1,I need to talk to you!
+val/dia97_utt21,0,Sure, what's up?
+val/dia98_utt0,4,All right, I just got changed in thirty seconds so you can be alone with him. You'd better go for it.
+val/dia98_utt1,5,Please, I'm not going for anything.
+val/dia98_utt2,4,Well, if you don't, I will.
+val/dia98_utt3,1,Would you please go?
+val/dia98_utt4,4,I would!
+val/dia99_utt0,1,Hey, guys, guys, did you see my new, china cabinet?!
+val/dia99_utt1,0,Uh-huh.
+val/dia99_utt2,1,Watch, watch.
+val/dia99_utt3,2,Ooohhhh!!
+val/dia99_utt4,1,And, and!
+val/dia99_utt5,2,Ahhhh!!
+val/dia99_utt6,2,Hey, my Father's house does that!
+val/dia99_utt7,0,O-o-o-okay, how did it go? Tell me everything.
+val/dia99_utt8,0,Well, the movie was great, dinner was great, and there's nothing like a cool, crisp New York evening.
+val/dia100_utt0,0,Okay. It's Emma.
+val/dia101_utt0,6,Emma!  See? I don't want it.
+val/dia102_utt0,0,Take it.
+val/dia102_utt1,0,What?
+val/dia103_utt0,0,It's clearly an Emma.
+val/dia103_utt1,6,Oh honey, but you love that name.
+val/dia103_utt2,1,Yeah, but I love you more.
+val/dia103_utt3,0,Besides y'know, nothing goes with Bing.
+val/dia103_utt4,1,So I'm screwed.
+val/dia104_utt0,1,Oh-oh, I'm a duck! I go, "Quack, quack!" I'm happy all the time!
+val/dia104_utt1,6,Nice try.
+val/dia104_utt2,1,Wait, wait, wait!
+val/dia104_utt3,0,Look, Monica
+val/dia104_utt4,2,Look!
+val/dia104_utt5,4,This is not going to work.
+val/dia104_utt6,1,I bet this will work!
+val/dia104_utt7,1,You are so great! I love you!
+val/dia104_utt8,2,What?
+val/dia104_utt9,3,Nothing! I said, I said "You're so great" and then I just, I just stopped talking!
+val/dia104_utt10,2,You said you loved me! I can't believe this!
+val/dia104_utt11,3,No I didn't!
+val/dia104_utt12,2,Yes, you did!
+val/dia104_utt13,3,No I didn't!
+val/dia104_utt14,1,You love me!
+val/dia104_utt15,4,No I don't! Stop it! Stop it! Stop it! Stop it!
+val/dia105_utt0,0,Hello Greg?
+val/dia105_utt1,0,Hi, this is Monica from the plane?
+val/dia105_utt2,4,Listen, the number that you gave me 853-5    That is their old number!
+val/dia105_utt3,4,Jenny's been giving it out since they moved!
+val/dia105_utt4,1,Jenny! That is so Jenny!
+val/dia105_utt5,0,Hey listen umm, how would you like to get together?
+val/dia105_utt6,0,Say next Saturday?
+val/dia105_utt7,0,Okay, how about Sunday?
+val/dia105_utt8,1,Okay umm, the week after that?
+val/dia105_utt9,1,The week after that?
+val/dia105_utt10,4,Y'know what Greg?
+val/dia105_utt11,4,We are good, interesting, funny people with
+val/dia106_utt0,0,Hey Chandler! Y'know that girl you went to college with who-who became a movie director?
+val/dia106_utt1,0,Oh yeah, Dana Keystone. She was in my Movement class.
+val/dia106_utt2,0,What's a Movement class?
+val/dia106_utt3,0,It's Chandler's way of pretending he didn't take mime.
+val/dia106_utt4,1,Oh well listen, anyway she's directing the new Al Pacino movie. You gotta get me an audition!
+val/dia106_utt5,0,Oh, I don't know man. I haven't talked to her in like ten years.
+val/dia107_utt0,0,I am.
+val/dia107_utt1,0,Joey, what are you talking about? You're a terrific actor.
+val/dia107_utt2,2,You really think so?
+val/dia107_utt3,2,Ugh, how can you even ask that question?!
+val/dia108_utt0,2,Ross! Get a shot of this. (He's carrying an issue of the
+val/dia108_utt1,3,Oh, okay, I'm having another one!
+val/dia108_utt2,2,This one doesn't hurt either Ooh, yes it does!
+val/dia108_utt3,4,Ow!
+val/dia108_utt4,4,Ow!
+val/dia108_utt5,4,Ow!
+val/dia108_utt6,4,Ow!
+val/dia108_utt7,2,Ooh!
+val/dia108_utt8,6,Oh, I was kinda hoping that was it.
+val/dia108_utt9,0,Hey, where are Monica and Rachel anyway?
+val/dia108_utt10,1,Yeah, I love you. Okay, bye!  Hi!
+val/dia108_utt11,1,Hi!
+val/dia108_utt12,3,That was Alice's mom, she said she left five hours ago. She should be here by now!
+val/dia108_utt13,0,Oh, honey, don't worry. She's gonna make it on time.
+val/dia108_utt14,0,Yeah.
+val/dia109_utt0,0,I guess I set up the video camera to try and entice Joey.
+val/dia109_utt1,1,But sadly I could not be enticed.
+val/dia109_utt2,5,Unbelievable! I mean you really kept Joey's underwear?! Why? Why would you do that?!
+val/dia109_utt3,6,I'm Monica. I'm disgusting. I stalk guys and keep their underpants.
+val/dia109_utt4,4,Well, I think we've all learned something about who's disgusting and who's not.
+val/dia109_utt5,0,Eh?
+val/dia109_utt6,0,All right, now, I'm going to get back to my bucket.
+val/dia109_utt7,0,I'm only eating the skin, so the chicken's up for grabs.
+val/dia110_utt0,0,Ohh, okay, they gave you the old time pricing.
+val/dia110_utt1,0,Yeah.
+val/dia110_utt2,0,Well, what period is it from?
+val/dia110_utt3,0,Uh, it's from yore. Like the days of yore. Y'know?
+val/dia110_utt4,0,Yes, yes I do.
+val/dia110_utt5,1,God, oh it's just perfect!
+val/dia110_utt6,1,I bet it has a great story behind it too.
+val/dia110_utt8,1,Yes! That I know, this is from White Plains.
+val/dia110_utt9,1,White Plains. Oh, it sounds like such a magical place.
+val/dia111_utt0,4,So, you still don't think I'm boyfriend material?
+val/dia111_utt1,0,Huh?
+val/dia111_utt2,0,I saw you checking me out during the game last night.
+val/dia112_utt0,4,I, umm, shut up!
+val/dia112_utt1,6, Good-bye Phoebe and Ursula. I'll miss you. P.S. Your Mom lives in Montauk.  You just wrote this!
+val/dia112_utt2,0,Well, it's pretty much the gist. Well, except for the poem. You read the poem, right?
+val/dia112_utt3,6,Noooo!!
+val/dia112_utt4,0,All right, hang on!
+val/dia113_utt0,0,Rachel, it's going to happen. Chandler is gonna move in here.
+val/dia113_utt1,6,But I
+val/dia113_utt2,0,No-no, wait!
+val/dia113_utt3,6,Just let me finish, okay?
+val/dia113_utt4,0,This isn't something that we just, we just impulsively decided in-in Vegas, this is something we both really want.
+val/dia113_utt5,0,And it
+val/dia113_utt6,2,It is? Really?
+val/dia113_utt7,0,Yeah, sweetie.
+val/dia113_utt8,6,I mean we're not, we're not gonna live together anymore?
+val/dia113_utt9,6,No.
+val/dia113_utt10,6,What? Oh my God! I'm gonna miss you so much!
+val/dia113_utt11,6,I'm gonna miss you!
+val/dia113_utt12,6,I mean it's the end of an era!
+val/dia113_utt13,6,I know!
