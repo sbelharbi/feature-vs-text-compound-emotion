@@ -26,7 +26,7 @@ Eric Granger<sup>1</sup>**
 <br/>
 <sup>6</sup> Université Paris-Saclay, CNRS, LISN, 91400, Orsay, France
 
-<p align="center"><img src="doc/promo.png" alt="outline" width="50%"></p>
+<p align="center"><img src="doc/promo.png" alt="outline" width="90%"></p>
 
 
 
