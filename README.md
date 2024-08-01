@@ -28,6 +28,8 @@ Eric Granger<sup>1</sup>**
 
 <p align="center"><img src="doc/promo.png" alt="outline" width="90%"></p>
 
+[![arXiv](https://img.shields.io/badge/arXiv-2407.12927-b31b1b.svg)](https://arxiv.org/pdf/2407.12927)
+[![Github](https://img.shields.io/badge/github-Textualized--based--method-brightgreen.svg)](https://github.com/nicolas-richet/feature-vs-text-compound-emotion)
 
 
 ## Abstract
