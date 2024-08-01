@@ -1,10 +1,10 @@
+import copy
 import os
 import sys
 from os.path import dirname, abspath, join, basename, expanduser, normpath
-
 from operator import itemgetter
-
 from collections import OrderedDict
+import yaml
 
 import numpy as np
 import tqdm
@@ -38,7 +38,27 @@ class GenericDataArranger(object):
         self.partition_range = self.partition_range_fn()
         self.fold_to_partition = self.assign_fold_to_partition()
 
+
+        fold = self.args.fold_to_run
+        folds_path = join(root_dir, self.args.folds_dir,
+                          f"split-{fold}")
+        path_class_id = join(folds_path, 'class_id.yaml')
+        with open(path_class_id, 'r') as fcl:
+            cl_int = yaml.safe_load(fcl)
+
+        self.cl_to_int: dict = cl_int
+        self.int_to_cl: dict = self.switch_key_val_dict(cl_int)
+
         self.data_per_split = self.create_splits()
+
+    @staticmethod
+    def switch_key_val_dict(d: dict) -> dict:
+        out = dict()
+        for k in d:
+            assert d[k] not in out, 'more than 1 key with same value. wrong.'
+            out[d[k]] = k
+
+        return out
 
     def load_fold_txt(self, path_fold: str) -> dict:
         out = dict()
@@ -48,6 +68,7 @@ class GenericDataArranger(object):
                 v_id, cl_int = line.split(',')[0:2]
                 txt = line.replace(f"{v_id},{cl_int},", '')
                 assert v_id not in out, v_id
+                cl_int = int(cl_int)
                 out[v_id] = {'cl': cl_int, 'txt': txt}
 
         return out
@@ -58,7 +79,18 @@ class GenericDataArranger(object):
         data_per_split = dict()
         for split in self.dataset_info:
             path_fold = join(self.folds_dir, f"split-{j}", f"{split}.txt")
-            fold = self.load_fold_txt(path_fold)
+            cnd = (self.args.dataset_name == constants.C_EXPR_DB)
+            cnd &= (not self.args.use_other_class)
+            fold: dict = self.load_fold_txt(path_fold)
+
+            _fold: dict = copy.deepcopy(fold)
+            if cnd:  # remove class 'Other' from train if not needed.
+                for itemx in fold:
+                    _other_int = self.cl_to_int[constants.OTHER]
+                    assert _other_int == 7, _other_int
+                    if int(fold[itemx]['cl']) == _other_int:
+                        _fold.pop(itemx)
+                fold = _fold
 
             data_per_split[split] = []
             trial_label = []
@@ -70,15 +102,6 @@ class GenericDataArranger(object):
 
                         trial_label.append([trial, fold[trial]['cl']])
                         break
-
-            # todo: delete this.
-            # for i, item in enumerate(self.trial_list):
-            #     _, trial, _ = item
-            #     if trial in fold:
-            #         data_per_split[split].append(self.trial_list[i])
-            #
-            #         trial_label.append([trial, fold[trial]['cl']])
-
 
             # trim train set if needed
             if split == constants.TRAINSET:
@@ -201,7 +224,7 @@ class GenericDataArranger(object):
                 path, trial, length = item
 
                 if windowing:
-                    if split not in [constants.TESTSET, constants.TESTSET]:
+                    if split not in [constants.TESTSET, constants.VALIDSET]:
                         _window_length = window_length
                     else:
                         if window_eval:
@@ -375,10 +398,9 @@ class GenericDataArranger(object):
                 trial = trials[idx]
                 path = join(trial_path, trial)
                 length = data_part['length'][idx]
-                # change home to local
-                # todo: delete before publishing.
-                # correct length for challenge
-                if self.args.dataset_name == constants.C_EXPR_DB_CHALLENGE:
+                # correct length for datasets with issues.
+                if self.args.dataset_name in [constants.C_EXPR_DB_CHALLENGE,
+                                              constants.C_EXPR_DB]:
                     video_p = join(path, 'video.npy')
                     assert os.path.isfile(video_p), video_p
 
@@ -497,11 +519,23 @@ class GenericDataset(Dataset):
                 transforms.ToTensor()
             ])
         else:
+            # to avoid this warning, we need to reshape and avoid [mean], [std]
+            # torchvision/transforms/_functional_tensor.py:918:
+            # UserWarning: Creating a tensor from a list of numpy.ndarrays
+            # is extremely slow. Please consider converting the list to a
+            # single numpy.ndarray with numpy.array() before converting to a
+            # tensor. (Triggered internally at ../torch/csrc/utils/tensor_new.
+            # cpp:275.)
+            avg = self.mean_std[feature]['mean'].reshape(1, -1)
+            std = self.mean_std[feature]['std'].reshape(1, -1)
+
             transform = transforms.Compose([
                 transforms.ToTensor(),
-                transforms.Normalize(mean=[self.mean_std[feature]['mean']],
-                                     std=[self.mean_std[feature]['std']])
+                transforms.Normalize(mean=avg,
+                                     std=std)
             ])
+
+
         return transform
 
     def __getitem__(self, index):
@@ -564,7 +598,6 @@ class GenericDataset(Dataset):
         if "continuous_label" not in feature:
             example = self.transform_dict[feature](np.asarray(example,
                                                               dtype=np.float32))
-
         return example
 
     def load_data(self, path, indices, feature):

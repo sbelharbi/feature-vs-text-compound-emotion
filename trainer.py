@@ -309,7 +309,8 @@ class Trainer(GenericVideoTrainer):
         delta_t = self.t_end_epoch - self.t_init_epoch
         c_ep = self.counter
         t_ep = self.args.num_epochs
-        DLLogger.log(fmsg(f'Train epoch ({c_ep}/{t_ep}) runtime: {delta_t}'))
+        DLLogger.log(fmsg(f'Train epoch ({c_ep - 1}/{t_ep}) runtime:'
+                          f' {delta_t}'))
 
     def train_one_epoch(self):
         self.random()
@@ -519,7 +520,7 @@ class Trainer(GenericVideoTrainer):
             print(f"Dumps the predictions of {constants.C_EXPR_DB_CHALLENGE} "
                   f"at {f_preds}")
 
-        return current_perf
+        return current_perf, per_video_frame_logits
 
     def compute_perf(self, data) -> dict:
         # frame level performance
@@ -542,8 +543,9 @@ class Trainer(GenericVideoTrainer):
         if (self.args.dataset_name == constants.C_EXPR_DB) and (
             self.args.use_other_class
         ):
-            l_ignore_class.append(7)  # 'Other' class
-
+            _other_int = self.cl_to_int[constants.OTHER]
+            assert _other_int == 7, _other_int
+            l_ignore_class.append(_other_int)  # 'Other' class
 
 
         for ignore_class in l_ignore_class:
@@ -629,18 +631,27 @@ class Trainer(GenericVideoTrainer):
                 'ccc': -1e10
             }
 
-        current_perf = self.inference(self.dataloaders[constants.VALIDSET])
+        current_perf, _ = self.inference(self.dataloaders[constants.VALIDSET])
 
         if self.args.dataset_name == constants.C_EXPR_DB:
             valid_tracker = dict()
             best_model = dict()
 
-            for ignore_class in [None, 7]:
+            l_ignore_class = [None]
+            if (self.args.dataset_name == constants.C_EXPR_DB) and (
+                    self.args.use_other_class
+            ):
+                _other_int = self.cl_to_int[constants.OTHER]
+                assert _other_int == 7, _other_int
+                l_ignore_class.append(_other_int)  # 'Other' class
+
+            for ignore_class in l_ignore_class:
                 valid_tracker[ignore_class] = PerfTracker(
                     master_ignore_class=ignore_class,
-                    master_metric=constants.MACRO_F1,
+                    master_metric=constants.W_F1,
                     master_level=constants.FRAME_LEVEL,
-                    master_video_pred=None)
+                    master_video_pred=None
+                )
 
                 best_model[ignore_class] = copy.deepcopy(self.model).to(
                     self.cpu_device).eval()
@@ -683,7 +694,8 @@ class Trainer(GenericVideoTrainer):
             self.scheduler.step()
 
             # validation:
-            current_perf = self.inference(self.dataloaders[constants.VALIDSET])
+            current_perf, _ = self.inference(self.dataloaders[
+                                                constants.VALIDSET])
 
             for item in valid_tracker:
 
@@ -711,7 +723,8 @@ class Trainer(GenericVideoTrainer):
 
             _state_dict = move_state_dict_to_device(_state_dict, self.device)
             self.model.load_state_dict(_state_dict, strict=True)
-            current_perf = self.inference(self.dataloaders[constants.TESTSET])
+            current_perf, per_video_frame_logits = self.inference(
+                self.dataloaders[constants.TESTSET])
             test_perf[item] = current_perf
             test_tracker[item].append(current_perf)
 
@@ -728,6 +741,13 @@ class Trainer(GenericVideoTrainer):
             with open(join(self.args.outd,
                            f"{constants.TESTSET}-{item}-perf.pkl"), 'wb') as fx:
                 pkl.dump(current_perf, fx, protocol=pkl.HIGHEST_PROTOCOL)
+
+            with open(join(self.args.outd,
+                           f"pred-per-frame-{constants.TESTSET}"
+                           f"-{item}-perf.pkl"),
+                      'wb') as fx:
+                pkl.dump(per_video_frame_logits, fx,
+                         protocol=pkl.HIGHEST_PROTOCOL)
 
         # store models weights.
         dir_best_model = join(self.args.outd, 'best-models')

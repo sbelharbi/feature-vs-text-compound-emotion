@@ -244,19 +244,24 @@ if __name__ == '__main__':
 
         issue = False
         for modal, sz in sizes:
-            if ds != constants.C_EXPR_DB_CHALLENGE:
+            if ds == constants.MELD:
                 assert sz == n, f"{modal} | {sz} | {n} | {dest}"
             else:
-                # second pass.
+                # first pass: Comment the next line.
+                # second pass. Uncomment this next line.
                 assert sz == n, f"{modal} | {sz} | {n} | {dest}"
 
                 if sz != n:
-                    # for C_EXPR_DB_CHALLENGE, the extracted number of frames are
-                    # always lower than the features for 5 videos.
+                    # for C_EXPR_DB_CHALLENGE, the extracted number of frames
+                    # are always lower than the features for 5 videos.
                     # in this case, we lower the dim of the features to the
                     # number of frames.
+                    # this issue occurs also with C_EXPR_DB.
+
                     video_id = basename(dest)
-                    assert video_id in ['09', '10', '22', '24', '45'], video_id
+                    if ds == constants.C_EXPR_DB_CHALLENGE:
+                        assert video_id in ['09', '10', '22', '24',
+                                            '45'], video_id
                     assert n < sz, f"{n} | {sz}"
 
                     mod_p = join(dest, f'{modal}.npy')

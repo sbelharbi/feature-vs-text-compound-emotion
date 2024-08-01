@@ -201,10 +201,10 @@ def get_args(args: dict) -> dict:
     parser.add_argument('--resume', default=None, type=str2bool,
                         help='Resume from checkpoint? boolean.')
     # 1.6. What modality to use?
-    #  Set to ['frame'] for unimodal and ['frame', 'mfcc', 'vggish' for
-    #  multimodal. Using other features may cause bugs.
-    # parser.add_argument('-modality', default=['video', 'logmel','mfcc',
-    # "VA_continuous_label"], nargs="*")
+    # supported: video, vggish, bert, EXPR_continuous_label.
+    # EXPR_continuous_label: is mandatory.
+    # to use multiple modalities at once, separate them by '+'.
+    # "video+vggish+bert+EXPR_continuous_label"
     parser.add_argument('--modality',
                         type=str,
                         default='video+vggish+VA_continuous_label',
@@ -213,14 +213,7 @@ def get_args(args: dict) -> dict:
     parser.add_argument('--calc_mean_std', default=None, type=str2bool,
                         help='Calculate the mean and std and save to a '
                              'pickle file')
-    # 1.7. What emotion to train?
-    # If choose both, then the multi-headed will be automatically enabled,
-    # meaning, the models will predict both the Valence
-    #   and Arousal.
-    # If choose valence or arousal, the output dimension can be 1 for
-    # single-headed, or 2 for multi-headed.
-    # For the latter, a weight will be applied to the output to favor the
-    # selected emotion.
+    # --emotion: NOT USED.
     parser.add_argument('--emotion', default="valence", type=str,
                         help='The emotion dimension to focus when updating'
                              ' gradient: arousal, valence, both')
@@ -330,113 +323,15 @@ def get_args(args: dict) -> dict:
     assert 0. < args['train_p'] <= 100., args['train_p']
     assert isinstance(args['train_p'], float), type(args['train_p'])
 
+    modalities = args['modality'].split('+')
+    assert constants.EXPR in modalities
+
+    for mdl in modalities:
+        assert mdl in [constants.VIDEO, constants.VGGISH, constants.BERT,
+                       constants.EXPR], mdl
     # --
 
     reproducibility.set_to_deterministic(seed=int(args["seed"]), verbose=True)
-
-    return args
-
-
-def fix_data_paths_t6(args: dict) -> dict:
-    # todo: delete function before make public.
-    assert isinstance(args, dict), type(args)
-    if socket.gethostname() not in ['taylor6', 'taylor5', 'taylor3']:
-        return args
-
-    u = getpass.getuser()
-    _u = 'AS84330'
-
-    # todo: watch changes in config_file.json
-    keys = ["dataset_rootpath",
-            "dataset_wavspath",
-            "dataset_realtimestamps",
-            "wavlm_features"
-             ]
-
-    for k in keys:
-        args[k] = args[k].replace(_u, u)
-
-        if socket.gethostname() in ['taylor5', 'taylor3']:
-            args[k] = args[k].replace('projets2', 'projets')
-
-    for k in ['train_params', 'val_params', 'test_params']:
-        args[k]['labelpath'] = args[k]['labelpath'].replace(_u, u)
-
-        if socket.gethostname() in ['taylor5', 'taylor3']:
-            args[k]['labelpath'] = args[k]['labelpath'].replace('projets2', 'projets')
-
-    return args
-
-
-def reset_data_paths_to_default(args: dict) -> dict:
-    default_config_file = join(root_dir, "config_file.json")
-    with open(default_config_file, 'r') as jsonfile:
-        def_args: dict = json.load(jsonfile)
-
-    # todo: delete function before make public.
-    assert isinstance(args, dict), type(args)
-
-    u = getpass.getuser()
-    _u = 'AS84330'
-
-    # todo: watch changes in config_file.json
-    keys = ["dataset_rootpath",
-            "dataset_wavspath",
-            "dataset_realtimestamps",
-            "wavlm_features"
-             ]
-
-    for k in keys:
-        args[k] = def_args[k]
-
-    for k in ['train_params', 'val_params', 'test_params']:
-        args[k]['labelpath'] = def_args[k]['labelpath']
-
-    return args
-
-
-def auto_set_tr_vl_tst_paths(args: dict) -> dict:
-    split = args['split']
-    assert split in ['DEFAULT',
-                     'ROUND1',
-                     'ROUND2',
-                     'ROUND3',
-                     'ROUND4',
-                     'ROUND5'], split
-
-    _DEFAULT = '/projets2/AS84330/Datasets/Affwild/VA_annotations/'
-
-    _IDS = {
-        'ROUND1': 'fold1',
-        'ROUND2': 'fold2',
-        'ROUND3': 'fold3',
-        'ROUND4': 'fold4',
-        'ROUND5': 'fold5'
-    }
-    _FOLD_BASE = '/projets2/AS84330/Datasets/Affwild/VA_annotations_5folds/'
-
-    if split == 'DEFAULT':
-        fold_p = _DEFAULT
-
-    else:
-        fold_p = join(_FOLD_BASE, _IDS[split])
-
-    # todo: delete before making public. ---------------------------------------
-    u = getpass.getuser()
-    _u = 'AS84330'
-    if socket.gethostname() in ['taylor6', 'taylor5', 'taylor3']:
-        fold_p = fold_p.replace(_u, u)
-
-        if socket.gethostname() in ['taylor5', 'taylor3']:
-            fold_p = fold_p.replace('projets2', 'projets')
-    # todo ---------------------------------------------------------------------
-
-    args['train_params']['labelpath'] = join(fold_p, 'Train_Set')
-    args['val_params']['labelpath'] = join(fold_p, 'Val_Set')
-    args['test_params']['labelpath'] = join(fold_p, 'Test_Set')
-
-    for v in ['train_params', 'val_params', 'test_params']:
-        assert os.path.isdir(args[v]['labelpath']), args[v]['labelpath']
 
     return args
 

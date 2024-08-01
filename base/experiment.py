@@ -105,7 +105,11 @@ class GenericExperiment(GenericImageExperiment):
         self.opt__load_best_at_each_epoch = args.opt__load_best_at_each_epoch
 
         self.modality = args.modality.split('+')
-        assert self.modality[0] == constants.VIDEO, self.modality[0]
+        # in this work, https://arxiv.org/abs/2203.13031, video is expected
+        # to be the modality used to combine its features with the final
+        # features. it is expected to be the first modality. see the model
+        # LFAN. but, the code works whatever the order.
+        # assert self.modality[0] == constants.VIDEO, self.modality[0]
 
         assert len(self.modality) > 0, len(self.modality)
         for mdl in self.modality:

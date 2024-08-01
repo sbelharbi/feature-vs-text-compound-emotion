@@ -140,5 +140,6 @@ class ToTorchFormatTensor(object):
             # handle numpy array
             img = torch.from_numpy(pic).permute(0, 3, 1, 2).contiguous()
 
-        return img.float().div(255) if self.div else img.float()
+        out = img.float().div(255) if self.div else img.float()
+        return out
 

@@ -509,6 +509,7 @@ class LFAN(nn.Module):
             # [batch, 1, length, feature_dim]
 
         for modal in X:
+            batch_size = X[modal].shape[0]
             X[modal] = X[modal].squeeze(1).transpose(1, 2)
             X[modal] = self.temporal[modal](X[modal])
             X[modal] = self.bn[modal](X[modal]).transpose(1, 2)

@@ -148,7 +148,6 @@ class Experiment(GenericExperiment):
 
         model = self.init_model()
 
-
         dataloaders = self.init_dataloader(fold)
 
         trainer_kwards = {'device': self.device,

@@ -244,7 +244,7 @@ class PreprocessingABAW5(GenericVideoPreprocessing):
                     this_trial, wild_trial = self.get_c_expr_db_partition(
                         this_trial, video_partition, video_label)
 
-                if ds == constants.C_EXPR_DB_CHALLENGE:
+                elif ds == constants.C_EXPR_DB_CHALLENGE:
                     this_trial, wild_trial = self.get_c_expr_db_challenge_partition(
                         this_trial, video_partition, video_label)
                 else:

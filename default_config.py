@@ -7,9 +7,6 @@ import constants
 root_dir = dirname((abspath(__file__)))
 sys.path.append(root_dir)
 
-# todo: delete
-# from abaw5_pre_processing.dlib.utils.tools import get_root_wsol_dataset
-
 
 __all__ = ["get_config", "get_root_wsol_dataset"]
 
@@ -64,8 +61,7 @@ def get_config(ds: str) -> dict:
         "mode": constants.TRAINING,  # mode: training, eval.
         "resume": False,  # resume training or start fresh.
         "modality": "video+vggish+bert+EXPR_continuous_label",  # modalities
-        # used; separated by '+'. (The first modality must be video. TODO:
-        #  needs to change this.)
+        # used; separated by '+'.
         "calc_mean_std": True,  # compute training stats.
         "emotion": "???",
 
