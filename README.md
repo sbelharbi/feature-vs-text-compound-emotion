@@ -116,6 +116,7 @@ Since feature extraction is done by block, we need to gather all the blocks for 
 python post_feature_extract.py
 ```
 Before running this, change the name of the dataset in `post_feature_extract.py`.
+
 4. **Compact of face images**: Cropped faces need to be compacted into a single file, similarly to other modalities. Example:
 
 ```bash
