@@ -74,7 +74,8 @@ Our code for the textualization approach is available at:
 
 
 ## Pre-processing:
-Read [./abaw5_pre_processing/README.txt](./abaw5_pre_processing/README.txt) and download the required file and unzip it.
+Read [./abaw5_pre_processing/README.txt](./abaw5_pre_processing/README.txt) and download the required file and unzip it. Adjust `get_root_wsol_dataset()` in [./abaw5_pre_processing/dlib/tools.py](./abaw5_pre_processing/dlib/tools.py) and in [./default_config.py](./default_config.py) to point to the absolute path of the folder containing the datasets folders, e.g.: `/a/b/c/d/abaw7`. Inside, there should be the needed datasets folders, e.g.: `MELD`, `C-EXPR-DB`, `C-EXPR-DB-CHALLENGE`.
+
 1. **First**, split files should be created. See `abaw5_pre_processing/dlib/ds_name.py`. Copy one split: `train.txt, val.txt, test.txt` and `class_id.yaml`
 from `./folds` into the root where the data resides `absolute_path_to_dataset/ds_name`.
 In the next steps, each subset is processed separately: `train`, `val`, `test`.
@@ -82,6 +83,7 @@ In addition, a subset is divided into `n` blocks. Each block is processed
 separately. For `MELD`, process `train, val, test` subsets. For `C-EXPR-DB`,
 process only `train, valid` (test == valid). For `C-EXPR-DB-CHALLENGE`,
 only `test` should be processed.
+
 2. **Face cropping and alignment**: Here is an example of processing `MELD`,
 `train` which is divided into 8 blocks, and we process block 0.
 
@@ -95,6 +97,7 @@ export CUDA_VISIBLE_DEVICES=$cudaid
 
 python abaw5_pre_processing/dlib/c_expr_db.py --ds C-EXPR-DB --split train --nblocks 8 --process_block 0
 ```
+
 3. **Feature extraction**:
 
 ```bash

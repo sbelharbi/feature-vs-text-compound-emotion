@@ -428,7 +428,7 @@ def get_root_wsol_dataset():
         if os.environ['HOST_XXX'] == 'tay':
             # debug.
             baseurl = f"{os.environ['SBHOME']}/workspace/datasets/abaw7"
-            # baseurl = f"{os.environ['DATASETSH']}/workspace/datasets/abaw7"
+            # baseurl = f"{os.environ['DATASETSH']}/abaw7"
 
         else:
             raise NotImplementedError(os.environ['HOST_XXX'])

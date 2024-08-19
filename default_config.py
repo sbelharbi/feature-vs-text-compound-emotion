@@ -15,8 +15,6 @@ def get_root_wsol_dataset():
     baseurl = None
     if "HOST_XXX" in os.environ.keys():
         if os.environ['HOST_XXX'] == 'tay':
-            # debug.
-            # baseurl = f"{os.environ['SBHOME']}/workspace/datasets/abaw7"
             baseurl = f"{os.environ['DATASETSH']}/abaw7"
 
         else:
