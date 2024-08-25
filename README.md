@@ -1,4 +1,4 @@
-# [Textualized and Feature-based Models for Compound Multimodal Emotion Recognition in the Wild](https://arxiv.org/pdf/2407.12927)
+# [Textualized and Feature-based Models for Compound Multimodal Emotion Recognition in the Wild (ECCVw2024)](https://arxiv.org/pdf/2407.12927)
 
 
 by
@@ -48,12 +48,11 @@ Our code for the textualization approach is available at:
 
 ## Citation:
 ```
-@article{Richet-abaw-24,
+@InProceedings{Richet-abaw-24,
   title={Textualized and Feature-based Models for Compound Multimodal Emotion Recognition in the Wild},
   author={Richet, N. and Belharbi, S. and Aslam, H. and Zeeshan, O. and Belharbi, S. and
   Koerich, A. L. and Pedersoli, M. and Bacon, S. and Granger, E.},
-  journal={CoRR},
-  volume={abs/2407.12927}
+  booktitle={ECCVw},
   year={2024}
 }
 ```
@@ -74,7 +73,7 @@ Our code for the textualization approach is available at:
 
 
 ## Pre-processing:
-Read [./abaw5_pre_processing/README.txt](./abaw5_pre_processing/README.txt) and download the required file and unzip it. Adjust `get_root_wsol_dataset()` in [./abaw5_pre_processing/dlib/tools.py](./abaw5_pre_processing/dlib/tools.py) and in [./default_config.py](./default_config.py) to point to the absolute path of the folder containing the datasets folders, e.g.: `/a/b/c/d/abaw7`. Inside, there should be the needed datasets folders, e.g.: `MELD`, `C-EXPR-DB`, `C-EXPR-DB-CHALLENGE`.
+Read [./abaw5_pre_processing/README.txt](./abaw5_pre_processing/README.txt) and download the required file and unzip it. Adjust `get_root_wsol_dataset()` in [./abaw5_pre_processing/dlib/tools.py](./abaw5_pre_processing/dlib/tools.py) and in [./default_config.py](./default_config.py) to point to the absolute path of the folder containing the datasets folders, e.g.: `/a/b/c/d/abaw7`. Inside, there should be the needed datasets folders, e.g.: `MELD`, `C-EXPR-DB`, `C-EXPR-DB-CHALLENGE`. Download pretrained weights `vggish.pth` and `res50_ir_0.887.pth` from [here](https://drive.google.com/drive/folders/1yh0vVY-AlwVCDxdAUy_c6e9fVbXUSnF5?usp=sharing) into the folder [./pretrained_models](./pretrained_models).
 
 1. **First**, split files should be created. See `abaw5_pre_processing/dlib/ds_name.py`. Copy one split: `train.txt, val.txt, test.txt` and `class_id.yaml`
 from `./folds` into the root where the data resides `absolute_path_to_dataset/ds_name`.
