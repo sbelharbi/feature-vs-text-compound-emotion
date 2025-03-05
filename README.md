@@ -50,7 +50,7 @@ Our code for the textualization approach is available at:
 ```
 @InProceedings{Richet-abaw-24,
   title={Textualized and Feature-based Models for Compound Multimodal Emotion Recognition in the Wild},
-  author={Richet, N. and Belharbi, S. and Aslam, H. and Zeeshan, O. and Belharbi, S. and
+  author={Richet, N. and Belharbi, S. and Aslam, H. and Zeeshan, O. and
   Koerich, A. L. and Pedersoli, M. and Bacon, S. and Granger, E.},
   booktitle={ECCVw},
   year={2024}
