@@ -5,26 +5,28 @@ by
 **Nicolas Richet<sup>1</sup>,
 Soufiane Belharbi<sup>1</sup>,
 Haseeb Aslam<sup>1</sup>,
-Meike Emilie Schadt<sup>3</sup>,
-Manuela González-González<sup>2,3</sup>,
-Gustave Cortal<sup>4,6</sup>,
-Alessandro Lameiras Koerich<sup>1</sup>,
+Meike Emilie Schadt<sup>4</sup>,
+Manuela González-González<sup>3,4</sup>,
+Gustave Cortal<sup>5,6</sup>,
+Alessandro Lameiras Koerich<sup>2</sup>,
 Marco Pedersoli<sup>1</sup>,
-Alain Finkel<sup>4,5</sup>,
-Simon Bacon<sup>2,3</sup>,
+Alain Finkel<sup>5,6</sup>,
+Simon Bacon<sup>3,4</sup>,
 Eric Granger<sup>1</sup>**
 
-<sup>1</sup> LIVIA, Dept. of Systems Engineering, ÉTS, Montreal, Canada
+<sup>1</sup> LIVIA, LLS, Dept. of Systems Engineering, ÉTS, Montreal, Canada
 <br/>
-<sup>2</sup> Dept. of Health, Kinesiology \& Applied Physiology, Concordia University, Montreal, Canada
+<sup>2</sup> LIVIA, Dept. of Software and IT Engineering, ÉTS, Montreal, Canada
 <br/>
-<sup>3</sup> Montreal Behavioural Medicine Centre, Montreal, Canada
+<sup>3</sup> Dept. of Health, Kinesiology \& Applied Physiology, Concordia University, Montreal, Canada
 <br/>
-<sup>4</sup> Université Paris-Saclay, CNRS, ENS Paris-Saclay, LMF, 91190, Gif-sur-Yvette, France
+<sup>4</sup> Montreal Behavioural Medicine Centre, Montreal, Canada
 <br/>
-<sup>5</sup> Institut Universitaire de France, France
+<sup>5</sup> Université Paris-Saclay, CNRS, ENS Paris-Saclay, LMF, 91190, Gif-sur-Yvette, France
 <br/>
-<sup>6</sup> Université Paris-Saclay, CNRS, LISN, 91400, Orsay, France
+<sup>6</sup> Institut Universitaire de France, France
+<br/>
+<sup>7</sup> Université Paris-Saclay, CNRS, LISN, 91400, Orsay, France
 
 <p align="center"><img src="doc/promo.png" alt="outline" width="90%"></p>
 
